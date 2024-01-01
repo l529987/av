@@ -2092,6 +2092,32 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
 
 🇨🇳 吉林地方台,#genre#
+吉林卫视,http://125.32.116.75:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林都市,http://125.32.116.75:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林影视,http://125.32.116.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林综艺,http://125.32.116.75:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+长影频道,http://125.32.116.75:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+
+长影频道,http://175.16.186.136:9901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0
+
+吉林卫视,http://175.20.234.49:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林都市,http://175.20.234.49:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林乡村,http://175.20.234.49:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林公共,http://175.20.234.49:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林综艺,http://175.20.234.49:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林生活,http://175.20.234.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+东北戏曲,http://175.20.234.49:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+
+吉林卫视,http://175.20.10.36:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林都市,http://175.20.10.36:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林乡村,http://175.20.10.36:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林公共,http://175.20.10.36:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林综艺,http://175.20.10.36:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林生活,http://175.20.10.36:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+东北戏曲,http://175.20.10.36:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
 吉林都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
 吉林生活,http://gongzhuling.lnott.top:58000/hls/20/index.m3u8
