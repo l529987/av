@@ -1595,6 +1595,16 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 
 🇨🇳 天津地方台,#genre#
+天津卫视,http://125.36.222.138:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+天津新闻,http://125.36.222.138:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+天津文艺,http://125.36.222.138:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+天津影视,http://125.36.222.138:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+天津都市,http://125.36.222.138:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://125.36.222.138:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+天津科教,http://125.36.222.138:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+天津少儿,http://125.36.222.138:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 天津新闻,http://60.25.112.50:8888/rtp/225.1.1.130:5002
 天津文艺,http://60.25.112.50:8888/rtp/225.1.1.131:5002
 天津影视,http://60.25.112.50:8888/rtp/225.1.1.149:5002
@@ -1889,6 +1899,7 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 
 
 🇨🇳 云南地方台,#genre#
+云南卫视,http://119.62.36.47:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 云南都市,http://119.62.36.47:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 云南娱乐,http://119.62.36.47:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 云南康旅,http://119.62.36.47:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
