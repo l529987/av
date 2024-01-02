@@ -1507,6 +1507,14 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河南地方台,#genre#
+河南卫视,http://117.158.165.147:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://117.158.165.147:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河南公共,http://117.158.165.147:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://117.158.165.147:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法治,http://117.158.165.147:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://117.158.165.147:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://117.158.165.147:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.17:10170
 河南导视,http://iptv.flymeto.top:10001/udp/239.16.20.243:12430
 河南卫视,http://iptv.flymeto.top:10001/udp/239.16.20.21:10210
