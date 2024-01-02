@@ -1164,6 +1164,23 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 
 
 🇨🇳 江西地方台,#genre#
+江西卫视,http://59.52.130.24:9901/tsfile/live/65447_1.m3u8?key=txiptv&playlive=1&authid=0
+江西都市,http://59.52.130.24:9901/tsfile/live/65448_1.m3u8?key=txiptv&playlive=1&authid=0
+江西经济生活,http://59.52.130.24:9901/tsfile/live/65449_1.m3u8?key=txiptv&playlive=1&authid=0
+江西影视旅游,http://59.52.130.24:9901/tsfile/live/65450_1.m3u8?key=txiptv&playlive=1&authid=0
+江西公共农业,http://59.52.130.24:9901/tsfile/live/65451_1.m3u8?key=txiptv&playlive=1&authid=0
+江西少儿,http://59.52.130.24:9901/tsfile/live/65452_1.m3u8?key=txiptv&playlive=1&authid=0
+江西新闻,http://59.52.130.24:9901/tsfile/live/65453_1.m3u8?key=txiptv&playlive=1&authid=0
+江西移动,http://59.52.130.24:9901/tsfile/live/65454_1.m3u8?key=txiptv&playlive=1&authid=0
+江西教育,http://59.52.130.24:9901/tsfile/live/65455_1.m3u8?key=txiptv&playlive=1&authid=0
+
+江西卫视,http://59.62.8.250:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西都市,http://59.62.8.250:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+江西经济生活,http://59.62.8.250:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+江西公共农业,http://59.62.8.250:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+江西少儿,http://59.62.8.250:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+江西教育,http://59.62.8.250:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 江西卫视,http://58.17.48.228:808/hls/17/index.m3u8
 江西都市,http://58.17.48.228:808/hls/18/index.m3u8
 江西经济生活,http://58.17.48.228:808/hls/19/index.m3u8
@@ -1175,7 +1192,7 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 江西经济生活,http://gzly.hkychina.com:6001/udp/239.252.219.173:5140
 江西影视旅游,http://yuwentao114.f3322.net:4022/udp/239.252.220.242:5140
 江西公共农业,http://gzly.hkychina.com:6001/udp/239.252.220.102:5140
-江西少儿频道,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140
+江西少儿,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140
 江西新闻,http://gzly.hkychina.com:6001/udp/239.252.220.100:5140
 江西教育,http://gzly.hkychina.com:6001/udp/239.252.219.115:5140
 江西移动,http://gzly.hkychina.com:6001/udp/239.252.220.241:5140
@@ -1395,7 +1412,7 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 湖北经视,http://58.48.5.186:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://58.48.5.186:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共新闻,http://58.48.5.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北电视台,http://58.48.5.186:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北综合,http://58.48.5.186:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉教育,http://58.48.5.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉新闻综合,http://58.48.5.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉电视剧,http://58.48.5.186:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
