@@ -1680,7 +1680,7 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 河北公共,http://111.225.92.130:8800/hls/22/index.m3u8
 河北农民,http://111.225.92.130:8800/hls/23/index.m3u8
 
-石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄新闻,综合http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
