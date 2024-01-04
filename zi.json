@@ -3,7 +3,39 @@
 //数据接口
 
 "sites": [
-
+{"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
+{"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+"精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
+{
+            "key": "番外",
+            "name": "🚸番外采集",
+            "type": 1,
+            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "群交淫乱",
+                "偷拍自拍",
+                "制服丝袜",
+                "无码专区",
+                "卡通动漫",
+                "中文字幕",
+                "欧美性爱",
+                "巨乳美乳",
+                "国产裸聊",
+                "国产自拍",
+                "国产盗摄",
+                "伦理三级",
+                "女同性恋",
+                "少女萝莉",
+                "人妖系列",
+                "虚拟VR"
+            ]
+        },
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
