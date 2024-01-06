@@ -802,7 +802,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 🇨🇳 上海地方台,#genre#
-上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8
+上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 欢笑剧场-4K,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 上海都市,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
@@ -1131,8 +1131,8 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 
 
 🇨🇳 江西地方台,#genre#
-江西卫视,http://59.52.130.24:9901/tsfile/live/65447_1.m3u8?key=txiptv&playlive=1&authid=0
-江西都市,http://59.52.130.24:9901/tsfile/live/65448_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://59.52.130.24:9901/tsfile/live/65447_1.m3u8
+江西都市,http://59.52.130.24:9901/tsfile/live/65448_1.m3u8
 江西经济生活,http://59.52.130.24:9901/tsfile/live/65449_1.m3u8?key=txiptv&playlive=1&authid=0
 江西影视旅游,http://59.52.130.24:9901/tsfile/live/65450_1.m3u8?key=txiptv&playlive=1&authid=0
 江西公共农业,http://59.52.130.24:9901/tsfile/live/65451_1.m3u8?key=txiptv&playlive=1&authid=0
