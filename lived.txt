@@ -560,10 +560,6 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 林正英,http://mmitv.top/pltv/yy.php?id=1351505899
 
-
-
-
-
 🇨🇳 港 澳 台,#genre#
 凤凰资讯,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=2&token=362347370d9bba54
 无线新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=7&token=362347370d9bba54
@@ -593,7 +589,7 @@ HOY78台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmi
 东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=38&token=362347370d9bba54
 东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=71&token=362347370d9bba54
 中天新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=32&token=362347370d9bba54
-TVBS新闻台 HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=25&token=362347370d9bba54
+TVBS HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=25&token=362347370d9bba54
 TVBS新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=26&token=362347370d9bba54
 非凡新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=36&token=362347370d9bba54
 寰宇新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=31&token=362347370d9bba54
@@ -614,7 +610,7 @@ AXN,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&pas
 龙华洋片,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=63&token=362347370d9bba54
 龙华戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=62&token=362347370d9bba54
 好莱坞电影台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=56&token=362347370d9bba54
-http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=57&token=362347370d9bba54
+1,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=57&token=362347370d9bba54
 爱尔达影剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=45&token=362347370d9bba54
 华艺综合,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=44&token=362347370d9bba54
 纬来体育台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=75&token=362347370d9bba54
