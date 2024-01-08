@@ -310,44 +310,45 @@ CCTV  4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 🇨🇳 央视频道,#genre#
-CCTV1,http://117.32.85.196:8008/udp/239.109.205.118:8880
-CCTV2,http://117.32.85.196:8008/udp/239.109.205.106:8784
-CCTV3,http://117.32.85.196:8008/udp/239.109.205.79:8568
-CCTV4,http://117.32.85.196:8008/udp/239.109.205.159:9108
-CCTV5,http://117.32.85.196:8008/udp/239.112.205.222:5140
-CCTV5+,http://117.32.85.196:8008/udp/239.109.205.214:9208
-CCTV5+,http://117.32.85.196:8008/udp/239.111.205.13:5140
-CCTV6,http://117.32.85.196:8008/udp/239.109.205.84:8608
-CCTV7,http://117.32.85.196:8008/udp/239.110.205.7:9774
-CCTV8,http://117.32.85.196:8008/udp/239.109.205.90:8656
-CCTV9,http://117.32.85.196:8008/udp/239.110.205.8:9778
-CCTV10,http://117.32.85.196:8008/udp/239.110.205.9:9782
-CCTV11,http://117.32.85.196:8008/udp/239.109.205.102:8752
-CCTV12,http://117.32.85.196:8008/udp/239.110.205.10:9786
-CCTV13,http://117.32.85.196:8008/udp/239.111.205.53:5140
-CCTV14,http://117.32.85.196:8008/udp/239.110.205.20:9826
-CCTV15,http://117.32.85.196:8008/udp/239.109.205.103:8760
-CCTV16,http://117.32.85.196:8008/udp/239.111.205.133:5140
-CCTV17,http://117.32.85.196:8008/udp/239.109.205.88:8640
-电视指南,http://117.32.85.196:8008/udp/239.111.205.76:5140
-兵器科技,http://117.32.85.196:8008/udp/239.111.205.74:5140
-第一剧场,http://117.32.85.196:8008/udp/239.111.205.65:5140
-风云剧场,http://117.32.85.196:8008/udp/239.110.205.87:7928
-风云剧场,http://117.32.85.196:8008/udp/239.111.205.66:5140
-风云音乐,http://117.32.85.196:8008/udp/239.111.205.69:5140
-风云音乐,http://117.32.85.196:8008/udp/239.110.205.90:7916
-风云足球,http://117.32.85.196:8008/udp/239.111.205.68:5140
-高尔夫网球,http://117.32.85.196:8008/udp/239.111.205.88:5140
-高尔夫网球,http://117.32.85.196:8008/udp/239.110.205.94:7900
-怀旧剧场,http://117.32.85.196:8008/udp/239.110.205.88:7924
-怀旧剧场,http://117.32.85.196:8008/udp/239.111.205.67:5140
-女性时尚,http://117.32.85.196:8008/udp/239.110.205.93:7904
-女性时尚,http://117.32.85.196:8008/udp/239.111.205.72:5140
-世界地理,http://117.32.85.196:8008/udp/239.110.205.92:7908
-世界地理,http://117.32.85.196:8008/udp/239.111.205.71:5140
-央视台球,http://117.32.85.196:8008/udp/239.110.205.91:7912
-央视台球,http://117.32.85.196:8008/udp/239.111.205.70:5140
-央视文化精品,http://117.32.85.196:8008/udp/239.111.205.75:5140
+CCTV1,http://117.32.84.140:8008/udp/239.109.205.118:8880
+CCTV2,http://117.32.84.140:8008/udp/239.109.205.106:8784
+CCTV3,http://117.32.84.140:8008/udp/239.109.205.79:8568
+CCTV4,http://117.32.84.140:8008/udp/239.109.205.159:9108
+CCTV5,http://117.32.84.140:8008/udp/239.112.205.222:5140
+CCTV5+,http://117.32.84.140:8008/udp/239.109.205.214:9208
+CCTV5+,http://117.32.84.140:8008/udp/239.111.205.13:5140
+CCTV6,http://117.32.84.140:8008/udp/239.109.205.84:8608
+CCTV7,http://117.32.84.140:8008/udp/239.110.205.7:9774
+CCTV8,http://117.32.84.140:8008/udp/239.109.205.90:8656
+CCTV9,http://117.32.84.140:8008/udp/239.110.205.8:9778
+CCTV10,http://117.32.84.140:8008/udp/239.110.205.9:9782
+CCTV11,http://117.32.84.140:8008/udp/239.109.205.102:8752
+CCTV12,http://117.32.84.140:8008/udp/239.110.205.10:9786
+CCTV13,http://117.32.84.140:8008/udp/239.111.205.53:5140
+CCTV14,http://117.32.84.140:8008/udp/239.110.205.20:9826
+CCTV15,http://117.32.84.140:8008/udp/239.109.205.103:8760
+CCTV16,http://117.32.84.140:8008/udp/239.111.205.133:5140
+CCTV17,http://117.32.84.140:8008/udp/239.109.205.88:8640
+电视指南,http://117.32.84.140:8008/udp/239.111.205.76:5140
+兵器科技,http://117.32.84.140:8008/udp/239.111.205.74:5140
+第一剧场,http://117.32.84.140:8008/udp/239.111.205.65:5140
+风云剧场,http://117.32.84.140:8008/udp/239.110.205.87:7928
+风云剧场,http://117.32.84.140:8008/udp/239.111.205.66:5140
+风云音乐,http://117.32.84.140:8008/udp/239.111.205.69:5140
+风云音乐,http://117.32.84.140:8008/udp/239.110.205.90:7916
+风云足球,http://117.32.84.140:8008/udp/239.111.205.68:5140
+高尔夫网球,http://117.32.84.140:8008/udp/239.111.205.88:5140
+高尔夫网球,http://117.32.84.140:8008/udp/239.110.205.94:7900
+怀旧剧场,http://117.32.84.140:8008/udp/239.110.205.88:7924
+怀旧剧场,http://117.32.84.140:8008/udp/239.111.205.67:5140
+女性时尚,http://117.32.84.140:8008/udp/239.110.205.93:7904
+女性时尚,http://117.32.84.140:8008/udp/239.111.205.72:5140
+世界地理,http://117.32.84.140:8008/udp/239.110.205.92:7908
+世界地理,http://117.32.84.140:8008/udp/239.111.205.71:5140
+央视台球,http://117.32.84.140:8008/udp/239.110.205.91:7912
+央视台球,http://117.32.84.140:8008/udp/239.111.205.70:5140
+央视文化精品,http://117.32.84.140:8008/udp/239.111.205.75:5140
+
 
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV2,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3
@@ -422,34 +423,34 @@ CCTV16,http://18.167.145.83:9870/go11.php?name=cctv16&t=1
 CCTV17,http://18.167.145.83:9870/go11.php?name=cctv17&t=1
 
 🇨🇳 卫视频道,#genre#
-中国教育1,http://117.32.85.196:8008/udp/239.109.205.78:8560
-中国教育1,http://117.32.85.196:8008/udp/239.112.205.201:5140
-北京卫视,http://117.32.85.196:8008/udp/239.112.205.65:5140
-浙江卫视,http://117.32.85.196:8008/udp/239.112.205.64:5140
-广东卫视,http://117.32.85.196:8008/udp/239.109.205.188:9610
-深圳卫视,http://117.32.85.196:8008/udp/239.112.205.67:5140
-深圳卫视,http://117.32.85.196:8008/udp/239.109.205.189:9602
-东方卫视,http://117.32.85.196:8008/udp/239.109.205.121:8904
-东南卫视,http://117.32.85.196:8008/udp/239.109.205.177:9626
-东南卫视,http://117.32.85.196:8008/udp/239.112.205.182:5140
-甘肃卫视,http://117.32.85.196:8008/udp/239.111.205.88:5140
-安徽卫视,http://117.32.85.196:8008/udp/239.112.205.72:5140
-天津卫视,http://117.32.85.196:8008/udp/239.112.205.74:5140
-贵州卫视,http://117.32.85.196:8008/udp/239.109.205.139:9024
-贵州卫视,http://117.32.85.196:8008/udp/239.112.205.178:5140
-河北卫视,http://117.32.85.196:8008/udp/239.109.205.158:9106
-河南卫视,http://117.32.85.196:8008/udp/239.109.205.140:9026
-河南卫视,http://117.32.85.196:8008/udp/239.112.205.180:5140
-黑龙江卫视,http://117.32.85.196:8008/udp/239.112.205.68:5140
-湖北卫视,http://117.32.85.196:8008/udp/239.109.205.165:9006
-湖南卫视,http://117.32.85.196:8008/udp/239.109.205.163:9002
-江苏卫视,http://117.32.85.196:8008/udp/239.109.205.119:8368
-江西卫视,http://117.32.85.196:8008/udp/239.109.205.96:8704
-辽宁卫视,http://117.32.85.196:8008/udp/239.110.205.12:9794
-四川卫视,http://117.32.85.196:8008/udp/239.112.205.184:5140
-吉林卫视,http://117.32.85.196:8008/udp/239.112.205.183:5140
-重庆卫视,http://117.32.85.196:8008/udp/239.112.205.179:5140
-兵团卫视,http://117.32.85.196:8008/udp/239.112.205.198:5140
+中国教育1,http://117.32.84.140:8008/udp/239.109.205.78:8560
+中国教育1,http://117.32.84.140:8008/udp/239.112.205.201:5140
+北京卫视,http://117.32.84.140:8008/udp/239.112.205.65:5140
+浙江卫视,http://117.32.84.140:8008/udp/239.112.205.64:5140
+广东卫视,http://117.32.84.140:8008/udp/239.109.205.188:9610
+深圳卫视,http://117.32.84.140:8008/udp/239.112.205.67:5140
+深圳卫视,http://117.32.84.140:8008/udp/239.109.205.189:9602
+东方卫视,http://117.32.84.140:8008/udp/239.109.205.121:8904
+东南卫视,http://117.32.84.140:8008/udp/239.109.205.177:9626
+东南卫视,http://117.32.84.140:8008/udp/239.112.205.182:5140
+甘肃卫视,http://117.32.84.140:8008/udp/239.111.205.88:5140
+安徽卫视,http://117.32.84.140:8008/udp/239.112.205.72:5140
+天津卫视,http://117.32.84.140:8008/udp/239.112.205.74:5140
+贵州卫视,http://117.32.84.140:8008/udp/239.109.205.139:9024
+贵州卫视,http://117.32.84.140:8008/udp/239.112.205.178:5140
+河北卫视,http://117.32.84.140:8008/udp/239.109.205.158:9106
+河南卫视,http://117.32.84.140:8008/udp/239.109.205.140:9026
+河南卫视,http://117.32.84.140:8008/udp/239.112.205.180:5140
+黑龙江卫视,http://117.32.84.140:8008/udp/239.112.205.68:5140
+湖北卫视,http://117.32.84.140:8008/udp/239.109.205.165:9006
+湖南卫视,http://117.32.84.140:8008/udp/239.109.205.163:9002
+江苏卫视,http://117.32.84.140:8008/udp/239.109.205.119:8368
+江西卫视,http://117.32.84.140:8008/udp/239.109.205.96:8704
+辽宁卫视,http://117.32.84.140:8008/udp/239.110.205.12:9794
+四川卫视,http://117.32.84.140:8008/udp/239.112.205.184:5140
+吉林卫视,http://117.32.84.140:8008/udp/239.112.205.183:5140
+重庆卫视,http://117.32.84.140:8008/udp/239.112.205.179:5140
+兵团卫视,http://117.32.84.140:8008/udp/239.112.205.198:5140
 
 
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
@@ -564,23 +565,73 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 
 
 🇨🇳 港 澳 台,#genre#
-凤凰卫视,http://170.178.177.98:27347/livehttpplay?channel_id=20065
-凤凰资讯,http://170.178.177.98:27347/livehttpplay?channel_id=30015
-无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=30024
-无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=20123
-无线财经体育资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30019
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=30026
-明珠台,http://170.178.177.98:27347/livehttpplay?channel_id=20125
-HOY76,http://170.178.177.98:27347/livehttpplay?channel_id=30037
-viu6,http://170.178.177.98:27347/livehttpplay?channel_id=20132
-明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026
-翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127
-J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122
+凤凰资讯,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=2&token=362347370d9bba54
+无线新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=7&token=362347370d9bba54
+无线财经台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=8&token=362347370d9bba54
+无线财经台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=81&token=362347370d9bba54
+TVB星河,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=6&token=362347370d9bba54
+翡翠台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=3&token=362347370d9bba54
+明珠台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=4&token=362347370d9bba54
+J2,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=5&token=362347370d9bba54
+viuTV,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=9&token=362347370d9bba54
+viuTV6,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=10&token=362347370d9bba54
+香港31,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=11&token=362347370d9bba54
+香港32,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=12&token=362347370d9bba54
+HK18台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=18&token=362347370d9bba54
+HOY78台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=14&token=362347370d9bba54
+澳门莲花,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=20&token=362347370d9bba54
+镜新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=76&token=362347370d9bba54
+中视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=22&token=362347370d9bba54
+中视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=29&token=362347370d9bba54
+华视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=23&token=362347370d9bba54
+华视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=28&token=362347370d9bba54
+民视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=21&token=362347370d9bba54
+民视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=27&token=362347370d9bba54
+台视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=24&token=362347370d9bba54
+台视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=30&token=362347370d9bba54
+东森新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=34&token=362347370d9bba54
+东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=38&token=362347370d9bba54
+东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=71&token=362347370d9bba54
+中天新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=32&token=362347370d9bba54
+TVBS新闻台 HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=25&token=362347370d9bba54
+TVBS新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=26&token=362347370d9bba54
+非凡新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=36&token=362347370d9bba54
+寰宇新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=31&token=362347370d9bba54
+年代新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=33&token=362347370d9bba54
+三立LIVE台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=77&token=362347370d9bba54
+三立iNEWS,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=35&token=362347370d9bba54
+壹电视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=37&token=362347370d9bba54
+HBO HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=39&token=362347370d9bba54
+HBO家庭,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=78&token=362347370d9bba54
+HBO强档,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=83&token=362347370d9bba54
+天映经典,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=41&token=362347370d9bba54
+天映频道,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=40&token=362347370d9bba54
+东森电影,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=46&token=362347370d9bba54
+东森洋片,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=47&token=362347370d9bba54
+龙祥时代,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=48&token=362347370d9bba54
+AXN,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=50&token=362347370d9bba54
+龙华电影,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=52&token=362347370d9bba54
+龙华洋片,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=63&token=362347370d9bba54
+龙华戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=62&token=362347370d9bba54
+好莱坞电影台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=56&token=362347370d9bba54
+http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=57&token=362347370d9bba54
+爱尔达影剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=45&token=362347370d9bba54
+华艺综合,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=44&token=362347370d9bba54
+纬来体育台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=75&token=362347370d9bba54
+卫视中文台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=44&token=362347370d9bba54
+动物星球台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=80&token=362347370d9bba54
+博斯高球1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=60&token=362347370d9bba54
+博斯高球2台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=61&token=362347370d9bba54
+爱尔达体育1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=72&token=362347370d9bba54
+爱尔达体育2台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=73&token=362347370d9bba54
+爱尔达体育3台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=74&token=362347370d9bba54
+爱尔达体育4台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=59&token=362347370d9bba54
+
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线财经体育资讯,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻台,http://r.jdshipin.com/CkuBd
-无线财经体育资讯,https://i.125011.xyz/tvb.php?id=2&hq
+无线财经台,https://i.125011.xyz/tvb.php?id=2&hq
 翡翠台,http://r.jdshipin.com/n90gt
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS$源2
