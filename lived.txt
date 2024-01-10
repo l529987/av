@@ -591,67 +591,6 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 林正英,http://mmitv.top/pltv/yy.php?id=1351505899
 
 🇨🇳 港 澳 台,#genre#
-凤凰资讯,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=2&token=362347370d9bba54
-无线新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=7&token=362347370d9bba54
-无线财经台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=8&token=362347370d9bba54
-无线财经台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=81&token=362347370d9bba54
-TVB星河,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=6&token=362347370d9bba54
-翡翠台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=3&token=362347370d9bba54
-明珠台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=4&token=362347370d9bba54
-J2,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=5&token=362347370d9bba54
-viuTV,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=9&token=362347370d9bba54
-viuTV6,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=10&token=362347370d9bba54
-香港31,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=11&token=362347370d9bba54
-香港32,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=12&token=362347370d9bba54
-HK18台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=18&token=362347370d9bba54
-HOY78台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=14&token=362347370d9bba54
-澳门莲花,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=20&token=362347370d9bba54
-镜新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=76&token=362347370d9bba54
-中视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=22&token=362347370d9bba54
-中视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=29&token=362347370d9bba54
-华视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=23&token=362347370d9bba54
-华视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=28&token=362347370d9bba54
-民视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=21&token=362347370d9bba54
-民视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=27&token=362347370d9bba54
-台视,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=24&token=362347370d9bba54
-台视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=30&token=362347370d9bba54
-东森新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=34&token=362347370d9bba54
-东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=38&token=362347370d9bba54
-东森戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=71&token=362347370d9bba54
-中天新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=32&token=362347370d9bba54
-TVBS HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=25&token=362347370d9bba54
-TVBS新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=26&token=362347370d9bba54
-非凡新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=36&token=362347370d9bba54
-寰宇新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=31&token=362347370d9bba54
-年代新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=33&token=362347370d9bba54
-三立LIVE台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=77&token=362347370d9bba54
-三立iNEWS,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=35&token=362347370d9bba54
-壹电视新闻台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=37&token=362347370d9bba54
-HBO HD,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=39&token=362347370d9bba54
-HBO家庭,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=78&token=362347370d9bba54
-HBO强档,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=83&token=362347370d9bba54
-天映经典,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=41&token=362347370d9bba54
-天映频道,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=40&token=362347370d9bba54
-东森电影,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=46&token=362347370d9bba54
-东森洋片,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=47&token=362347370d9bba54
-龙祥时代,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=48&token=362347370d9bba54
-AXN,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=50&token=362347370d9bba54
-龙华电影,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=52&token=362347370d9bba54
-龙华洋片,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=63&token=362347370d9bba54
-龙华戏剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=62&token=362347370d9bba54
-好莱坞电影台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=56&token=362347370d9bba54
-1,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=57&token=362347370d9bba54
-爱尔达影剧,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=45&token=362347370d9bba54
-华艺综合,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=44&token=362347370d9bba54
-纬来体育台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=75&token=362347370d9bba54
-卫视中文台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=44&token=362347370d9bba54
-动物星球台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=80&token=362347370d9bba54
-博斯高球1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=60&token=362347370d9bba54
-博斯高球2台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=61&token=362347370d9bba54
-爱尔达体育1台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=72&token=362347370d9bba54
-爱尔达体育2台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=73&token=362347370d9bba54
-爱尔达体育3台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=74&token=362347370d9bba54
-爱尔达体育4台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=59&token=362347370d9bba54
 
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
@@ -1089,18 +1028,6 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 福建经济,http://36.249.151.173:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 福建公共,http://36.249.151.173:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
-福建综合,http://117.30.222.173:4000/udp/239.61.5.167:1025
-福建新闻,http://117.30.222.173:4000/udp/239.61.4.4:1025
-福建电视剧,http://117.30.222.173:4000/udp/239.61.4.5:1025
-福建公共,http://117.30.222.173:4000/udp/239.61.4.3:1025
-福建经济,http://117.30.222.173:4000/udp/239.61.4.7:1025
-福建旅游,http://117.30.222.173:4000/udp/239.61.4.6:1025
-福建少儿,http://117.30.222.173:4000/udp/239.61.4.9:1025
-福建文体,http://117.30.222.173:4000/udp/239.61.5.44:1025
-福建教育,http://117.30.222.173:4000/udp/239.61.5.60:1025
-福州－1,http://117.30.222.173:4000/udp/239.61.5.97:1025
-厦门1,http://117.30.222.173:4000/udp/239.61.5.99:1025
-厦门2,http://117.30.222.173:4000/udp/239.61.4.140:1025
 泉州,rtmp://live.qztv.cn/live/news
 泉州4,rtmp://live.qztv.cn/live/mny
 海峡卫视,http://117.30.222.173:4000/udp/239.61.5.45:1025
@@ -1111,30 +1038,6 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 
 石狮综合,http://218.106.152.196/lsdream/MO13IYx/2000/live.m3u8?zfud
 霞浦综合频道,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
-
-
-福建综合,http://angtv.cc/test/bestv.php?id=fjzhhd4m/4000000
-福建新闻,http://angtv.cc/test/bestv.php?id=fjxwhd4m/4000000
-福建电视剧,http://angtv.cc/test/bestv.php?id=fjdsjhd4m/4000000
-福建文体,http://angtv.cc/test/bestv.php?id=fjtyhd4m/4000000
-福建少儿,http://angtv.cc/test/bestv.php?id=fjsehd4m/4000000
-福建旅游,http://angtv.cc/test/bestv.php?id=fjlyhd4m/4000000
-福建经济,http://angtv.cc/test/bestv.php?id=fjjjshhd4m/4000000
-福建公共,http://angtv.cc/test/bestv.php?id=fjgghd4m/4000000
-福建教育,http://angtv.cc/test/bestv.php?id=fjjypdhd4m/4000000
-
-
-
-福建综合,http://49.235.110.121:9090/daili/bestv.php?id=fjzh
-福建新闻,http://49.235.110.121:9090/daili/bestv.php?id=fjxw
-福建电视剧,http://49.235.110.121:9090/daili/bestv.php?id=fjdsj
-福建经济,http://49.235.110.121:9090/daili/bestv.php?id=fjjj
-福建文体,http://49.235.110.121:9090/daili/bestv.php?id=fjwt
-福建少儿,http://49.235.110.121:9090/daili/bestv.php?id=fjse
-福建旅游,http://49.235.110.121:9090/daili/bestv.php?id=fjly
-福建公共,http://49.235.110.121:9090/daili/bestv.php?id=fjgg
-福建教育,http://49.235.110.121:9090/daili/bestv.php?id=fjjy
-海峡卫视,http://49.235.110.121:9090/daili/bestv.php?id=hxws
 
 
 🇨🇳 江西地方台,#genre#
@@ -1339,36 +1242,6 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 怀化综合,http://124.230.56.124:55555/udp/239.76.255.12:9000
 
 
-沅江电视台,https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
-安化综合,https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
-临武综合,https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
-嘉禾综合,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
-桂阳综合,https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-桂东融媒,https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
-龙山综合,https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
-汨罗综合,https://liveplay-srs.voc.com.cn/hls/tv/166_a4ad1b.m3u8
-屈原综合,https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
-汝城台,https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
-永兴综合,https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-攸县综合,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
-汉寿综合,https://liveplay-srs.voc.com.cn/hls/tv/31_226756.m3u8
-城步电视,https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
-新化综合,https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
-桑植综合,https://liveplay-srs.voc.com.cn/hls/tv/185_938292.m3u8
-洪江综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
-蓝山综合,https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
-耒阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
-新邵综合,https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
-吉首综合,https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
-麻阳综合,https://liveplay-srs.voc.com.cn/hls/tv/38_6f397d.m3u8
-芷江综合,https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
-中方台,https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
-新晃时政,https://liveplay-srs.voc.com.cn/hls/tv/23_5d556a.m3u8
-靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
-古丈,https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
-花恒综合,https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
-
-
 🇨🇳 湖北地方台,#genre#
 湖北卫视,http://183.94.146.79:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://183.94.146.79:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1438,32 +1311,7 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 阳新综合,http://dd.ikhs.cn:8880/udp/239.69.1.34:9844
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
-荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1704038399-0-0-a0b56187fea04cf4f776c0b23cf5f547
-荆州公共,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1704038399-0-0-35f354ebd7cf85af1104fa76d623c1c6
-荆门新闻,http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1704038399-0-0-13c3bcd900adf2e0769c37e9b77ac917
-荆门教育,http://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1704038399-0-0-07df8996b53392164dd8c9da2b3e1477
-松滋综合,http://songzi-live21.cjyun.org/10194/s10194-songzi-tv1.m3u8?auth_key=1704038399-0-0-8a816733aac199df58c68a9818b8ef76
-江陵综合,http://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1704038399-0-0-bf99cff97b68e2bec58f626f876f75f3
-沙洋综合电视,http://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1704038399-0-0-b07aa5a0a6f1c83a3c61bb86c94a8fee
-谷城综合,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1704038399-0-0-9b04df5d845d5e76347ce466fdcd2032
-宜都综合,http://yidushi-live21.cjyun.org/yidushi/s10092-yidushitv01.m3u8?auth_key=1704038399-0-0-f4d74ed0ac9ceda3f3bc9578111a235b
-长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1704038399-0-0-1fcaab230981d2c4f214defbef335ed5
-远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1704038399-0-0-4d63b3e7a5ca5d8a9a6ec38a5f3ecabc
-当阳电视台,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
-秭归新闻综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1704038399-0-0-74d94da372e55ee5587c2707140eab2c
-咸丰新闻综合,http://xianfeng-live21.cjyun.org/10096/s10096-xftv1.m3u8?auth_key=1704038399-0-0-7b0b5a34401a46525dae45889931e84e
-鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1704038399-0-0-73faaff5056f4c2f3eaa37886ba5a32d
-巴东综合,http://badong-live21.cjyun.org/10095/s10095-bdtv1.m3u8?auth_key=1704038399-0-0-4565a31ae93b5c49923c9a9127d8874d
-鄂州新闻综合,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
-鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
-黄冈新闻,http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1704038399-0-0-467fc23b176dde216d3e41c725fd1b6b
-红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
-黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
-利川新闻综合,http://lichuan-live21.cjyun.org/10093/s10093-lczh.m3u8?auth_key=1704038399-0-0-6925f04d8efe10283376f4632ccbc454
-咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
-黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
-兴山综合,http://xingshan-live21.cjyun.org/cjyun/s10108-xingshanTV01.m3u8?auth_key=1704038399-0-0-d18d120277c3d0e90b935cf0d1aaeb44
+
 
 
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8$源2
@@ -1856,20 +1704,8 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 凉山新闻综合,https://live.v1.mk/api/sxg.php?id=lsxwHDH265_4000
 
 
-四川新闻,http://lu1.cc/itv/sctv/scxl.php?id=scxw
-四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scjj
-四川文化,http://lu1.cc/itv/sctv/scxl.php?id=scwhly
-四川影视,http://lu1.cc/itv/sctv/scxl.php?id=scyswy
-四川妇女儿童,http://lu1.cc/itv/sctv/scxl.php?id=scfnet
-四川经济,http://lu1.cc/itv/sctv/scxl.php?id=scxc
-四川乡村,http://lu1.cc/itv/sctv/scxl.php?id=kbws
-成都新闻,http://xy123.ueuo.com/cdxgx.php?id=xwpd
-成都经济,http://xy123.ueuo.com/cdxgx.php?id=jjpd
-成都生活,http://xy123.ueuo.com/cdxgx.php?id=shpd
-成都影视,http://xy123.ueuo.com/cdxgx.php?id=yspd
-成都公共,http://xy123.ueuo.com/cdxgx.php?id=ggpd
-成都少儿,http://xy123.ueuo.com/cdxgx.php?id=sepd
-成都蓉城先锋,http://xy123.ueuo.com/cdxgx.php?id=rcxf
+
+
 内江公共,http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8?zsicd
 内江科教,http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8?zsicd
 内江综合,http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8?zsicd
@@ -1901,30 +1737,6 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 
 
 🇨🇳 广西地方台,#genre#
-广西卫视,http://rss.jtmi.vip:10001/udp/239.81.0.107:4056
-广西综艺,http://rss.jtmi.vip:10001/udp/239.81.0.214:4056
-广西影视,http://rss.jtmi.vip:10001/udp/239.81.0.250:4056
-广西都市,http://rss.jtmi.vip:10001/udp/239.81.0.247:4056
-广西新闻,http://rss.jtmi.vip:10001/udp/239.81.0.248:4056
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-南宁影视,http://rss.jtmi.vip:10001/udp/239.81.0.140:4056
-南宁新闻,http://rss.jtmi.vip:10001/udp/239.81.0.241:4056
-南宁公共,http://rss.jtmi.vip:10001/udp/239.81.0.141:4056
-南宁都市,http://rss.jtmi.vip:10001/udp/239.81.0.139:4056
-百色综合,http://rss.jtmi.vip:10001/udp/239.81.0.150:4056
-贵港综合,http://rss.jtmi.vip:10001/udp/239.81.0.172:4056
-2,http://rss.jtmi.vip:10001/udp/239.81.0.151:4056
-河池新闻综合,http://rss.jtmi.vip:10001/udp/239.81.0.168:4056
-来宾综合,http://rss.jtmi.vip:10001/udp/239.81.0.173:4056
-桂林新闻,,http://rss.jtmi.vip:10001/udp/239.81.0.174:4056
-柳州新闻,http://rss.jtmi.vip:10001/udp/239.81.0.175:4056
-北海新闻,http://rss.jtmi.vip:10001/udp/239.81.0.154:4056
-梧州新闻综合,http://rss.jtmi.vip:10001/udp/239.81.0.176:4056
-钦州综合,http://rss.jtmi.vip:10001/udp/239.81.0.164:4056
-玉林新闻,http://rss.jtmi.vip:10001/udp/239.81.0.177:4056
-贺州新闻,http://rss.jtmi.vip:10001/udp/239.81.0.163:4056
-
-
 广西卫视,http://opdf.top:8088/udp/239.81.0.107:4056
 广西综艺,http://opdf.top:8088/udp/239.81.0.214:4056
 广西影视,http://opdf.top:8088/udp/239.81.0.250:4056
