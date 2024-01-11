@@ -1,7 +1,5 @@
 
-	//"spider": "http://drpy.lcjly.cn/libs/jar/custom_spider.jar",
-	"spider": "https://xhys.lcjly.cn/jar/pg.jar",
-	"wallpaper": "http://lcjly.cn/tupian",
+	
 
 	"sites": [
 		{"key": "drpy_js_996影视","name": "996影视","type": 3,"api": "http://drpy.lcjly.cn/libs/drpy2.min.js","ext":"http://drpy.lcjly.cn/js/996影视.js","searchable": 2,"quickSearch": 0,"filterable": 0},
