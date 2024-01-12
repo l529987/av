@@ -606,6 +606,75 @@ CHC家庭影院,http://117.32.84.129:8008/udp/239.112.205.205:5140
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS$源2
 明珠台,http://r.jdshipin.com/ZQ4kN
+凤凰卫视,http://141.95.85.201:6666/livehttpplay?channel_id=20065&fbl=
+凤凰资讯,http://141.95.85.201:6666/livehttpplay?channel_id=20066&fbl=
+凤凰香港台,http://141.95.85.201:6666/livehttpplay?channel_id=20067&fbl=
+3,http://141.95.85.201:6666/livehttpplay?channel_id=20123&fbl=
+无线财经台,http://141.95.85.201:6666/livehttpplay?channel_id=20121&fbl=
+4,http://141.95.85.201:6666/livehttpplay?channel_id=20124&fbl=
+http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=
+J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122&fbl=
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=
+TVB星河,http://141.95.85.201:6666/livehttpplay?channel_id=20070&fbl=
+NOW新闻台,http://141.95.85.201:6666/livehttpplay?channel_id=20041&fbl=
+RHK31,http://141.95.85.201:6666/livehttpplay?channel_id=20203&fbl=
+viu TV,http://141.95.85.201:6666/livehttpplay?channel_id=20131&fbl=
+viu6 TV,http://141.95.85.201:6666/livehttpplay?channel_id=20132&fbl=
+HOY 77,http://141.95.85.201:6666/livehttpplay?channel_id=20152&fbl=
+HOY 78,http://141.95.85.201:6666/livehttpplay?channel_id=20191&fbl=
+八大综合台,http://141.95.85.201:6666/livehttpplay?channel_id=20068&fbl=
+八大第1台,http://141.95.85.201:6666/livehttpplay?channel_id=20073&fbl=
+八大戏剧台,http://141.95.85.201:6666/livehttpplay?channel_id=20036&fbl=
+八大娱乐台,http://141.95.85.201:6666/livehttpplay?channel_id=20071&fbl=
+八大精采台,http://141.95.85.201:6666/livehttpplay?channel_id=20052&fbl=
+台视,http://141.95.85.201:6666/livehttpplay?channel_id=20314&fbl=
+中视,http://141.95.85.201:6666/livehttpplay?channel_id=20088&fbl=
+华视,http://141.95.85.201:6666/livehttpplay?channel_id=20086&fbl=
+民视,http://141.95.85.201:6666/livehttpplay?channel_id=20074&fbl=
+民视新闻台,http://141.95.85.201:6666/livehttpplay?channel_id=20097&fbl=
+1,http://141.95.85.201:6666/livehttpplay?channel_id=20075&fbl=
+台视,http://141.95.85.201:6666/livehttpplay?channel_id=20076&fbl=
+公视,http://141.95.85.201:6666/livehttpplay?channel_id=20087&fbl=
+东森综合,http://141.95.85.201:6666/livehttpplay?channel_id=20104&fbl=
+东森电影,http://141.95.85.201:6666/livehttpplay?channel_id=20077&fbl=
+东森洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20080&fbl=
+东森新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20082&fbl=
+东森财经新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20078&fbl=
+东森戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20072&fbl=
+中天综合,http://141.95.85.201:6666/livehttpplay?channel_id=20064&fbl=
+中天娱乐,http://141.95.85.201:6666/livehttpplay?channel_id=20079&fbl=
+TVBS HD,http://141.95.85.201:6666/livehttpplay?channel_id=20085&fbl=
+TVBS新闻台,http://141.95.85.201:6666/livehttpplay?channel_id=20165&fbl=
+TVBS欢乐台,http://141.95.85.201:6666/livehttpplay?channel_id=20105&fbl=
+TVBS精采台,http://141.95.85.201:6666/livehttpplay?channel_id=20136&fbl=
+环宇新闻台,http://141.95.85.201:6666/livehttpplay?channel_id=20109&fbl=
+环宇新闻台湾台,http://141.95.85.201:6666/livehttpplay?channel_id=20196&fbl=
+壹新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20028&fbl=
+非凡新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20034&fbl=
+年代新闻,http://141.95.85.201:6666/livehttpplay?channel_id=20033&fbl=
+三立都会台,http://141.95.85.201:6666/livehttpplay?channel_id=20100&fbl=
+龙华洋片,http://141.95.85.201:6666/livehttpplay?channel_id=20090&fbl=
+龙华偶像,http://141.95.85.201:6666/livehttpplay?channel_id=20023&fbl=
+龙华日韩,http://141.95.85.201:6666/livehttpplay?channel_id=20081&fbl=
+龙祥时代,http://141.95.85.201:6666/livehttpplay?channel_id=20114&fbl=
+美亚电影台,http://141.95.85.201:6666/livehttpplay?channel_id=20197&fbl=
+好莱坞电影,http://141.95.85.201:6666/livehttpplay?channel_id=20062&fbl=
+HBO,http://141.95.85.201:6666/livehttpplay?channel_id=20093&fbl=
+HBO原创,http://141.95.85.201:6666/livehttpplay?channel_id=20091&fbl=
+HBO强档,http://141.95.85.201:6666/livehttpplay?channel_id=20092&fbl=
+2,http://141.95.85.201:6666/livehttpplay?channel_id=20112&fbl=
+采昌台,http://141.95.85.201:6666/livehttpplay?channel_id=20141&fbl=
+纬来综合,http://141.95.85.201:6666/livehttpplay?channel_id=20201&fbl=
+纬来电影,http://141.95.85.201:6666/livehttpplay?channel_id=20199&fbl=
+纬来体育,http://141.95.85.201:6666/livehttpplay?channel_id=20120&fbl=
+纬来戏剧,http://141.95.85.201:6666/livehttpplay?channel_id=20200&fbl=
+纬来育乐,http://141.95.85.201:6666/livehttpplay?channel_id=20202&fbl=
+纬来日本,http://141.95.85.201:6666/livehttpplay?channel_id=20303&fbl=
+
+大爱,http://141.95.85.201:6666/livehttpplay?channel_id=20032&fbl=
+博斯高球1,http://141.95.85.201:6666/livehttpplay?channel_id=20103&fbl=
+博斯高球2,http://141.95.85.201:6666/livehttpplay?channel_id=20117&fbl=
+动物星球,http://141.95.85.201:6666/livehttpplay?channel_id=20106&fbl=
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
@@ -613,6 +682,11 @@ RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
+凤凰卫视,http://222.217.246.54:8282/tsfile/live/1083_1.m3u8
+凤凰资讯,http://222.217.246.54:8282/tsfile/live/1082_1.m3u8
+凤凰香港台,http://222.217.246.54:8282/tsfile/live/1084_1.m3u8
+TVB星河,http://222.217.246.54:8282/tsfile/live/1073_1.m3u8
+龙祥时代,http://222.217.246.54:8282/tsfile/live/1081_1.m3u8
 
 
 🇨🇳 北京地方台,#genre#
