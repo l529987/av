@@ -2247,6 +2247,12 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 
 🇨🇳 内蒙古地方台,#genre#
+内蒙古新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+
 内蒙古农牧,http://api2.52tb.xyz/info?id=886&token=20230405tndmhg
 内蒙古新闻,http://api2.52tb.xyz/info?id=781&token=20230405tndmhg
 内蒙古文体娱乐,http://api2.52tb.xyz/info?id=785&token=20230405tndmhg
