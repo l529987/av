@@ -1097,6 +1097,16 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
+福建综合,http://nas.jdshipin.com:8801/bst.php?id=fjzh
+福建新闻,http://nas.jdshipin.com:8801/bst.php?id=fjxw
+福建电视剧,http://nas.jdshipin.com:8801/bst.php?id=fjdsj
+福建经济,http://nas.jdshipin.com:8801/bst.php?id=fjjj
+福建文体,http://nas.jdshipin.com:8801/bst.php?id=fjwt
+福建少儿,http://nas.jdshipin.com:8801/bst.php?id=fjse
+福建旅游,http://nas.jdshipin.com:8801/bst.php?id=fjly
+福建公共,http://nas.jdshipin.com:8801/bst.php?id=fjgg
+福建教育,http://nas.jdshipin.com:8801/bst.php?id=fjjy
+
 福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://36.249.151.173:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 福建电视剧,http://36.249.151.173:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1898,10 +1908,13 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 
 
 🇨🇳 云南地方台,#genre#
-云南卫视,http://119.62.36.47:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-云南都市,http://119.62.36.47:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-云南娱乐,http://119.62.36.47:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-云南康旅,http://119.62.36.47:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://220.163.178.144:8888/tsfile/live/0019_1.m3u8?key=txiptv
+云南都市,http://220.163.178.144:8888/tsfile/live/0128_1.m3u8?key=txiptv
+云南娱乐,http://220.163.178.144:8888/tsfile/live/0124_1.m3u8?key=txiptv
+云南康旅,http://220.163.178.144:8888/tsfile/live/0127_1.m3u8?key=txiptv
+
+云南卫视,http://119.62.142.2:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+云南康旅,http://119.62.142.2:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 
 云南卫视,http://106.57.0.111:55555/rtp/239.200.200.145:8840
 云南影视,http://106.57.0.111:55555/rtp/239.200.200.15:8856
@@ -2224,6 +2237,13 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 辽宁体育,http://home.ofme.cn:8888/udp/232.0.0.216:1234
 辽宁教育,http://home.ofme.cn:8888/udp/232.0.0.241:1234
 
+辽宁都市,http://cfss.cc/ds/bfgd.php?id=610&Cf.m3u8
+辽宁生活,http://cfss.cc/ds/bfgd.php?id=073&Cf.m3u8
+辽宁体育,http://cfss.cc/ds/bfgd.php?id=611&Cf.m3u8
+辽宁影视,http://cfss.cc/ds/bfgd.php?id=070&Cf.m3u8
+辽宁教育,http://cfss.cc/ds/bfgd.php?id=075&Cf.m3u8
+辽宁经济,http://cfss.cc/ds/bfgd.php?id=480&Cf.m3u8
+辽宁公共,http://cfss.cc/ds/bfgd.php?id=481&Cf.m3u8
 大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 
 🇨🇳 内蒙古地方台,#genre#
@@ -2388,6 +2408,18 @@ KTTV1,http://office.gofaraway.top:888/udp/238.125.7.185:5140
 YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
 YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
+
+新疆,http://117.190.144.101:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆3,http://117.190.144.101:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆4,http://117.190.144.101:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆5,http://117.190.144.101:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆6,http://117.190.144.101:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆7,http://117.190.144.101:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆8,http://117.190.144.101:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆9,http://117.190.144.101:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆10,http://117.190.144.101:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆11,http://117.190.144.101:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆12,http://117.190.144.101:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
