@@ -1346,22 +1346,22 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 
 🇨🇳 湖北地方台,#genre#
 湖北卫视,http://183.94.146.79:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共新闻,http://183.94.146.79:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://183.94.146.79:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://183.94.146.79:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://183.94.146.79:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北教育,http://183.94.146.79:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北生活,http://183.94.146.79:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北垄上,http://183.94.146.79:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共新闻,http://183.94.146.79:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉新闻综合,http://183.94.146.79:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉电视剧,http://183.94.146.79:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉科技生活,http://183.94.146.79:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉文体,http://183.94.146.79:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖北卫视,http://58.48.5.186:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共新闻,http://58.48.5.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.48.5.186:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视,http://58.48.5.186:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共新闻,http://58.48.5.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://58.48.5.186:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉教育,http://58.48.5.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉新闻综合,http://58.48.5.186:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1384,15 +1384,13 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 湖北卫视,http://27.29.115.50:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://27.29.115.50:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://27.29.115.50:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北公共,http://27.29.115.50:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北公共新闻,http://27.29.115.50:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖北卫视,http://61.184.128.243:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://61.184.128.243:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北综合,http://61.184.128.243:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共新闻,http://61.184.128.243:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 
-湖北综合,http://171.115.226.126:9901/tsfile/live/faacts/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://171.115.226.126:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
 湖北综合,http://dd.ikhs.cn:8880/udp/239.69.1.42:9892
@@ -1417,14 +1415,14 @@ IPTV高清院线,http://124.230.56.124:55555/udp/239.76.252.217:9000
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
 
 
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8$源2
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8$源2
-武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8$源2
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8$源2
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8$源2
-武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8$源2
-武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8$源2
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8$源2
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
+武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 
 湖北公共新闻,http://api2.52tb.xyz/info?id=543&token=20230405tndmhg
 湖北综合,http://api2.52tb.xyz/info?id=542&token=20230405tndmhg
