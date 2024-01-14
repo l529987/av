@@ -1056,6 +1056,19 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 英德新闻综合,https://skype.serv00.net/itouch.php?id=ydxw
 
 🇨🇳 江苏地方台,#genre#
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.flv?upt=3ffbf2232510710360
+江苏新闻,rtmp://live-hls.jstv.com/livezhuzhan/jsgg?upt=def530a82510710360
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.flv?upt=d361165c2510710360
+江苏城市,rtmp://live-hls.jstv.com/livezhuzhan/jscs?upt=30a544992510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.flv?upt=8f2db1292510710360
+江苏影视,rtmp://live-hls.jstv.com/livezhuzhan/jsys?upt=ed57b6e62510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.flv?upt=ad3deaf02510710360
+江苏综艺,rtmp://live-hls.jstv.com/livezhuzhan/jszy?upt=5fdf59522510710360
+
 江苏城市,http://49.77.200.3:5555/rtp/239.49.9.35:6000
 江苏综艺,http://49.77.200.3:5555/rtp/239.49.9.36:6000
 江苏体育休闲,http://49.77.200.3:5555/rtp/239.49.9.37:6000
@@ -1664,6 +1677,89 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 
 
 🇨🇳 四川地方台,#genre#
+四川文化旅游,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.3:5140
+四川乡村,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.4:5140
+四川经济,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.2:5140
+四川新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.5:5140
+四川影视文艺,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.77:5140
+四川妇女儿童,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.8:5140
+四川科教,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.194:5140
+康巴卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.10:5140
+峨眉电影,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.11:5140
+阿坝汉语,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.50:5140
+阿坝藏语,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.51:5140
+巴中综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.52:5140
+巴中公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.53:5140
+德阳新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.56:5140
+德阳公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.57:5140
+广安新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.58:5140
+广安公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.59:5140
+广元综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.60:5140
+广元公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.61:5140
+乐山新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.62:5140
+乐山公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.63:5140
+凉山新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.64:5140
+凉山彝语,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.65:5140
+眉山综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.66:5140
+眉山公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.67:5140
+南充综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.68:5140
+南充公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.69:5140
+南充科教,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.70:5140
+内江综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.71:5140
+内江公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.72:5140
+内江科教,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.73:5140
+遂宁综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.76:5140
+遂宁公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.77:5140
+宜宾新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.80:5140
+宜宾公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.81:5140
+资阳新闻,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.82:5140
+自贡综合频道,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.83:5140
+自贡公共频道,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.84:5140
+自贡公共频道,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.112:5140
+绵阳新闻综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.96:5140
+绵阳公共,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.97:5140
+绵阳科教,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.98:5140
+天府TV经典再现,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.130:5140
+天府TV军旅谍战,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.131:5140
+天府TV教育综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.136:5140
+天府TV辣妈学院,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.137:5140
+天府TV风尚美食,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.138:5140
+天府TV健康生活,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.139:5140
+天府TV魔力荟萃,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.140:5140
+天府TV时尚天地,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.141:5140
+天府TV星动娱乐,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.142:5140
+天府TV时尚生活,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.144:5140
+天府TV魔力TV,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.145:5140
+天府TV积木宝贝,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.157:5140
+天府TV启蒙乐园,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.158:5140
+天府TV人文记录,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.166:5140
+天府TV电竞世界,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.167:5140
+天府TV影院,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.188:5140
+天府TV综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.189:5140
+天府TV财经频道,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.194:5140
+天府TV乐趣综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.195:5140
+红色经典,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.201:5140
+情感热播,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.202:5140
+风云剧场,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.203:5140
+我看剧场,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.204:5140
+峥嵘岁月,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.205:5140
+青春在线,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.206:5140
+历史再现,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.207:5140
+宏伟巨献,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.208:5140
+阳光日记,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.209:5140
+童童乐园,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.210:5140
+儿歌天地,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.211:5140
+国学课堂,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.212:5140
+嘻哈动漫,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.213:5140
+酷乐卡通,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.214:5140
+快乐假期,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.215:5140
+奇趣动漫,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.216:5140
+欢乐启蒙,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.217:5140
+玩具乐园,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.218:5140
+趣乐探险,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.219:5140
+求索记录,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.221:5140
+
+
 四川经济,http://vl15191373.imwork.net:8880/rtp/239.93.1.101:5140
 四川文化旅游,http://vl15191373.imwork.net:8880/rtp/239.93.1.102:5140
 四川新闻,http://vl15191373.imwork.net:8880/rtp/239.93.0.47:5140
@@ -1958,6 +2054,17 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
 
 🇨🇳 重庆地方台,#genre#
+重庆新闻,http://117.59.80.3/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
+重庆科教,http://117.59.80.3/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
+重庆影视,http://117.59.80.3/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
+重庆社法,http://117.59.80.3/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
+重庆文娱,http://117.59.80.3/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
+重庆新农,http://117.59.80.3/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+重庆时尚,http://117.59.80.3/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
+重庆少儿,http://117.59.80.3/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
+重庆移动,http://117.59.80.3/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
+爱看导视,http://117.59.80.3/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8
+
 重庆卫视,http://183.66.66.199:2345/udp/235.254.196.249:1268
 重庆新闻,http://183.66.66.199:2345/udp/235.254.196.199:7980
 重庆影视,http://183.66.66.199:2345/udp/235.254.198.180:7980
@@ -1975,18 +2082,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 精彩,http://183.66.66.199:2345/udp/235.254.199.250:7980
 开州综合,http://183.66.66.199:2345/udp/235.254.198.145:1870
 秀山综合,http://183.66.66.199:2345/udp/235.254.199.239:7980
-
-重庆新闻,http://117.59.116.36/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆科教,http://117.59.116.36/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆影视,http://117.59.116.36/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-重庆社法,http://117.59.116.36/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
-重庆文娱,http://117.59.116.36/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-重庆新农,http://117.59.116.36/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-重庆时尚,http://117.59.116.36/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
-重庆少儿,http://117.59.116.36/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
-重庆移动,http://117.59.116.36/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
-爱看导视,http://117.59.116.36/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8
-
 
 🇨🇳 山东地方台,#genre#
 山东新闻,http://182.32.160.32:9999/rtp/239.21.1.140:5002
@@ -2078,10 +2173,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 任城综合,http://182.32.160.32:9999/rtp/239.21.2.143:5002
 任城影视娱乐,http://182.32.160.32:9999/rtp/239.21.2.144:5002
 
-
-
-
-
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
@@ -2089,6 +2180,12 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
 
 🇨🇳 黑龙江地方台,#genre#
+黑龙江新闻法治,http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+黑龙江农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
+黑龙江都市,http://39.134.65.149/PLTV/88888888/224/3221225969/1.m3u8
+黑龙江影视,http://39.134.65.181/PLTV/88888888/224/3221225973/1.m3u8
+黑龙江文体,http://39.134.65.151/PLTV/88888888/224/3221225965/1.m3u8?zheild
+
 黑龙江新闻法治,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -2107,6 +2204,12 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 黑龙江文体,http://api2.52tb.xyz/info?id=764&token=20230405tndmhg
 
 🇨🇳 吉林地方台,#genre#
+吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+
+
 吉林卫视,http://125.32.116.75:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林都市,http://125.32.116.75:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林生活,http://125.32.116.75:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2214,6 +2317,15 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
 🇨🇳 辽宁地方台,#genre#
+辽宁都市,http://cfss.cc/ds/bfgd.php?id=610&Cf.m3u8
+辽宁生活,http://cfss.cc/ds/bfgd.php?id=073&Cf.m3u8
+辽宁体育,http://cfss.cc/ds/bfgd.php?id=611&Cf.m3u8
+辽宁影视,http://cfss.cc/ds/bfgd.php?id=070&Cf.m3u8
+辽宁教育,http://cfss.cc/ds/bfgd.php?id=075&Cf.m3u8
+辽宁经济,http://cfss.cc/ds/bfgd.php?id=480&Cf.m3u8
+辽宁公共,http://cfss.cc/ds/bfgd.php?id=481&Cf.m3u8
+大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
+
 辽宁卫视,http://61.243.162.175:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://61.243.162.175:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁公共,http://61.243.162.175:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2238,15 +2350,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 沈阳综合,http://home.ofme.cn:8888/udp/232.0.0.206:1234
 辽宁体育,http://home.ofme.cn:8888/udp/232.0.0.216:1234
 辽宁教育,http://home.ofme.cn:8888/udp/232.0.0.241:1234
-
-辽宁都市,http://cfss.cc/ds/bfgd.php?id=610&Cf.m3u8
-辽宁生活,http://cfss.cc/ds/bfgd.php?id=073&Cf.m3u8
-辽宁体育,http://cfss.cc/ds/bfgd.php?id=611&Cf.m3u8
-辽宁影视,http://cfss.cc/ds/bfgd.php?id=070&Cf.m3u8
-辽宁教育,http://cfss.cc/ds/bfgd.php?id=075&Cf.m3u8
-辽宁经济,http://cfss.cc/ds/bfgd.php?id=480&Cf.m3u8
-辽宁公共,http://cfss.cc/ds/bfgd.php?id=481&Cf.m3u8
-大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 
 🇨🇳 内蒙古地方台,#genre#
 内蒙古新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
