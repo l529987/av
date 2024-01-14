@@ -1686,6 +1686,12 @@ IPTV,http://60.25.112.50:8888/rtp/225.1.2.53:5002
 四川科教,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.194:5140
 康巴卫视,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.10:5140
 峨眉电影,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.11:5140
+成都综合,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.11:5140
+成都经济,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.12:5140
+成都生活,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.13:5140
+成都影视,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.14:5140
+成都公共,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.15:5140
+成都少儿,http://ipv6.kjrzxhb.top:8888/udp/239.10.0.16:5140
 阿坝汉语,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.50:5140
 阿坝藏语,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.51:5140
 巴中综合,http://ipv6.kjrzxhb.top:8888/rtp/239.10.0.52:5140
