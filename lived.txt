@@ -2075,16 +2075,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
 
 🇨🇳 重庆地方台,#genre#
-重庆新闻,http://117.59.80.3/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆科教,http://117.59.80.3/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆影视,http://117.59.80.3/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-重庆社法,http://117.59.80.3/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8
-重庆文娱,http://117.59.80.3/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-重庆新农,http://117.59.80.3/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-重庆时尚,http://117.59.80.3/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
-重庆少儿,http://117.59.80.3/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
-重庆移动,http://117.59.80.3/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8
-爱看导视,http://117.59.80.3/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8
 
 重庆卫视,http://183.66.66.199:2345/udp/235.254.196.249:1268
 重庆新闻,http://183.66.66.199:2345/udp/235.254.196.199:7980
