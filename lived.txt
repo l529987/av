@@ -1672,6 +1672,24 @@ IPTV,http://117.10.52.89:5000/rtp/225.1.2.53:5002
 天津少儿,http://125.36.222.138:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🇨🇳 四川地方台,#genre#
+四川卫视,https://live3.rxip.sc96655.com/live/scwsH265_4000.m3u8
+四川文化旅游,https://live3.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
+四川经济,https://live3.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,https://live3.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
+四川影视文艺,https://live3.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+四川妇女儿童,https://live3.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
+四川科教,https://live3.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+四川乡村,https://live3.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+四川康巴卫视,https://live3.rxip.sc96655.com/live/kbwsH264_2000.m3u8
+四川峨嵋电影,https://live3.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+四川超高清电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8
+成都新闻综合,https://live3.rxip.sc96655.com/live/CDTV-1_4000.m3u8
+成都经济资讯,https://live3.rxip.sc96655.com/live/CDTV-2_4000.m3u8
+成都都市生活,https://live3.rxip.sc96655.com/live/CDTV-3_4000.m3u8
+成都影视文艺,https://live3.rxip.sc96655.com/live/CDTV-4_4000.m3u8
+成都公共频道,https://live3.rxip.sc96655.com/live/CDTV-5_4000.m3u8
+成都高新区,https://live3.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8
+
 四川文化旅游,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.3:5140
 四川乡村,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.4:5140
 四川经济,http://ipv6.kjrzxhb.top:8888/rtp/239.11.0.2:5140
