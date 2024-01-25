@@ -2524,7 +2524,11 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 吉林综艺,http://175.20.10.36:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林生活,http://175.20.10.36:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 东北戏曲,http://175.20.10.36:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-
+长春经济,http://nas.tuyuannet.cn:8800/rtp/239.37.0.99:5540
+长春汽车,http://nas.tuyuannet.cn:8800/rtp/239.37.0.100:5540
+长春市民,http://nas.tuyuannet.cn:8800/rtp/239.37.0.98:5540
+长春娱乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.97:5540
+长春综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.96:5540
 
 吉林卫视,http://gongzhuling.lnott.top:58000/hls/18/index.m3u8
 吉林都视,http://gongzhuling.lnott.top:58000/hls/19/index.m3u8
@@ -2541,11 +2545,6 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
 吉林影视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
 吉林公共,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
-长春综合,http://play-hsbj.vzan.com/slowlive/580610038484302158/live.m3u8
-长春经济,http://play-hsbj.vzan.com/slowlive/971101273107665149/live.m3u8
-长春市民生活,http://play-hsbj.vzan.com/slowlive/068896930987809806/live.m3u8
-长春文旅体育,http://play-hsbj.vzan.com/slowlive/313849570252687480/live.m3u8
-长春汽车,http://play-hsbj.vzan.com/slowlive/917989240738000763/live.m3u8
 
 🇨🇳 陕西地方台,#genre#
 陕西卫视,http://61.185.200.128:55555/rtp/239.111.205.35:5140
