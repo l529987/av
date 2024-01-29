@@ -1147,6 +1147,24 @@ HZTV-2,http://113.100.73.139:8899/udp/239.77.1.233:5146
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
+福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv
+福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv
+福建电视剧,http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv
+福建经济,http://117.27.190.42:9901/tsfile/live/23289_1.m3u8?key=txiptv
+福建文体,http://117.27.190.42:9901/tsfile/live/23291_1.m3u8?key=txiptv
+福建少儿,http://117.27.190.42:9901/tsfile/live/23290_1.m3u8?key=txiptv
+福建旅游,http://117.27.190.42:9901/tsfile/live/23288_1.m3u8?key=txiptv
+福建公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv
+福建教育,http://117.27.190.42:9901/tsfile/live/23292_1.m3u8?key=txiptv
+福州－1,http://117.27.190.42:9901/tsfile/live/23301_1.m3u8?key=txiptv
+厦门1,http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv
+厦门2,http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv
+海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv
+南坪1,http://117.27.190.42:9901/tsfile/live/23295_1.m3u8?key=txiptv
+宁德新闻,http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv
+平潭综合,http://117.27.190.42:9901/tsfile/live/23299_1.m3u8?key=txiptv
+泉州,http://117.27.190.42:9901/tsfile/live/23300_1.m3u8?key=txiptv
+
 福建综合,http://nas.jdshipin.com:8801/bst.php?id=fjzh
 福建新闻,http://nas.jdshipin.com:8801/bst.php?id=fjxw
 福建电视剧,http://nas.jdshipin.com:8801/bst.php?id=fjdsj
