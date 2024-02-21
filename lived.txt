@@ -2383,18 +2383,18 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
 
 🇨🇳 吉林地方台,#genre#
-吉林影视,http://nas.tuyuannet.cn:8800/rtp/239.37.1.3:5540
-吉林乡村,http://nas.tuyuannet.cn:8800/rtp/239.37.1.5:5540
-吉林生活,http://nas.tuyuannet.cn:8800/rtp/239.37.1.4:5540
-吉林都市,http://nas.tuyuannet.cn:8800/rtp/239.37.1.2:5540
-吉林公共新闻,http://nas.tuyuannet.cn:8800/rtp/239.37.1.6:5540
-吉林综艺文化,http://nas.tuyuannet.cn:8800/rtp/239.37.1.7:5540
-吉林东北戏曲,http://nas.tuyuannet.cn:8800/rtp/239.37.1.9:5540
-长春经济,http://nas.tuyuannet.cn:8800/rtp/239.37.0.99:5540
-长春汽车,http://nas.tuyuannet.cn:8800/rtp/239.37.0.100:5540
-长春市民,http://nas.tuyuannet.cn:8800/rtp/239.37.0.98:5540
-长春娱乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.97:5540
-长春综合,http://nas.tuyuannet.cn:8800/rtp/239.37.0.96:5540
+吉林影视,http://36.49.54.144:8800/rtp/239.37.1.3:5540
+吉林乡村,http://36.49.54.144:8800/rtp/239.37.1.5:5540
+吉林生活,http://36.49.54.144:8800/rtp/239.37.1.4:5540
+吉林都市,http://36.49.54.144:8800/rtp/239.37.1.2:5540
+吉林公共新闻,http://36.49.54.144:8800/rtp/239.37.1.6:5540
+吉林综艺文化,http://36.49.54.144:8800/rtp/239.37.1.7:5540
+吉林东北戏曲,http://36.49.54.144:8800/rtp/239.37.1.9:5540
+长春经济,http://36.49.54.144:8800/rtp/239.37.0.99:5540
+长春汽车,http://36.49.54.144:8800/rtp/239.37.0.100:5540
+长春市民,http://36.49.54.144:8800/rtp/239.37.0.98:5540
+长春娱乐,http://36.49.54.144:8800/rtp/239.37.0.97:5540
+长春综合,http://36.49.54.144:8800/rtp/239.37.0.96:5540
 
 吉林都市,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
 吉林生活,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
@@ -2668,13 +2668,12 @@ YZTV,http://118.183.212.34:6868/udp/239.255.30.175:8231
 宁夏文旅,rtmp://hls.ningxiahuangheyun.com/live/nxwl1M$源3
 
 🇨🇳 山西地方台,#genre#
-山西卫视,http://60.223.72.228:8005/rtp/226.0.1.85:2001
-山西社会与法治,http://60.223.72.228:8005/rtp/226.0.1.83:2005
-山西经济与科技,http://60.223.72.228:8005/rtp/226.0.1.81:2003
-山西文体生活,http://60.223.72.228:8005/rtp/226.0.1.200:2006
-山西影视,http://60.223.72.228:8005/rtp/226.0.1.82:2004
-山西黄河,http://60.223.72.228:8005/rtp/226.0.1.84:2002
-
+山西卫视,http://60.223.72.182:8005/rtp/226.0.1.85:2001
+山西社会与法治,http://60.223.72.182:8005/rtp/226.0.1.83:2005
+山西经济与科技,http://60.223.72.182:8005/rtp/226.0.1.81:2003
+山西文体生活,http://60.223.72.182:8005/rtp/226.0.1.200:2006
+山西影视,http://60.223.72.182:8005/rtp/226.0.1.82:2004
+山西黄河,http://60.223.72.182:8005/rtp/226.0.1.84:2002
 
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
@@ -2837,57 +2836,6 @@ YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 
 
 🌈 彩虹频道_6058,#genre#
-Playboy,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
-Русская Ночь,http://ca.ukrainske.tv/132/3530225EDBD6B16/video.m3u8
-PassionXXX,http://ca.ukrainske.tv/6869/3530225EDBD6B16/video.m3u8
-PassionXXX 2,http://ca.ukrainske.tv/6883/3530225EDBD6B16/video.m3u8
-PassionXXX Milf,http://ca.ukrainske.tv/6884/3530225EDBD6B16/video.m3u8
-Pinko Club,http://ca.ukrainske.tv/6867/3530225EDBD6B16/video.m3u8
-CentoXCento,http://ca.ukrainske.tv/6868/3530225EDBD6B16/video.m3u8
-Barely Legal,http://ca.ukrainske.tv/4012/3530225EDBD6B16/video.m3u8
-XYPlus,http://ca.ukrainske.tv/6870/3530225EDBD6B16/video.m3u8
-XY Max HD,http://ca.ukrainske.tv/6871/3530225EDBD6B16/video.m3u8
-XY Mix HD,http://ca.ukrainske.tv/6872/3530225EDBD6B16/video.m3u8
-Hustler HD,http://ca.ukrainske.tv/592/3530225EDBD6B16/video.m3u8
-Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
-Evil Angel HD,http://ca.ukrainske.tv/6891/3530225EDBD6B16/video.m3u8
-Dorcel HD,http://ca.ukrainske.tv/6879/3530225EDBD6B16/video.m3u8
-Шелк Шелк HD,http://ca.ukrainske.tv/7310/3530225EDBD6B16/video.m3u8
-Penthouse Quickies HD,http://ca.ukrainske.tv/6881/3530225EDBD6B16/video.m3u8
-Penthouse HD,http://ca.ukrainske.tv/1497/3530225EDBD6B16/video.m3u8
-Penthouse Gold HD,http://ca.ukrainske.tv/6880/3530225EDBD6B16/video.m3u8
-Kinoshka Adult HD,http://ca.ukrainske.tv/9997/3530225EDBD6B16/video.m3u8
-BCU Charm HD,http://ca.ukrainske.tv/7141/3530225EDBD6B16/video.m3u8
-Clarity4K Angel XXX,http://ca.ukrainske.tv/4607/3530225EDBD6B16/video.m3u8
-YOSSO TV SEXY HD,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
-CineManExExEx HD,http://ca.ukrainske.tv/13020/3530225EDBD6B16/video.m3u8
-CineManExExEx TWO HD,http://ca.ukrainske.tv/13021/3530225EDBD6B16/video.m3u8
-
-Playboy,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
-Русская Ночь,http://ca.ukrainske.tv/132/3530225EDBD6B16/video.m3u8
-PassionXXX,http://ca.ukrainske.tv/6869/3530225EDBD6B16/video.m3u8
-PassionXXX 2,http://ca.ukrainske.tv/6883/3530225EDBD6B16/video.m3u8
-PassionXXX Milf,http://ca.ukrainske.tv/6884/3530225EDBD6B16/video.m3u8
-Pinko Club,http://ca.ukrainske.tv/6867/3530225EDBD6B16/video.m3u8
-CentoXCento,http://ca.ukrainske.tv/6868/3530225EDBD6B16/video.m3u8
-Barely Legal,http://ca.ukrainske.tv/4012/3530225EDBD6B16/video.m3u8
-XYPlus,http://ca.ukrainske.tv/6870/3530225EDBD6B16/video.m3u8
-XY Max HD,http://ca.ukrainske.tv/6871/3530225EDBD6B16/video.m3u8
-XY Mix HD,http://ca.ukrainske.tv/6872/3530225EDBD6B16/video.m3u8
-Hustler HD,http://ca.ukrainske.tv/592/3530225EDBD6B16/video.m3u8
-Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
-Evil Angel HD,http://ca.ukrainske.tv/6891/3530225EDBD6B16/video.m3u8
-Dorcel HD,http://ca.ukrainske.tv/6879/3530225EDBD6B16/video.m3u8
-Шелк Шелк HD,http://ca.ukrainske.tv/7310/3530225EDBD6B16/video.m3u8
-Penthouse Quickies HD,http://ca.ukrainske.tv/6881/3530225EDBD6B16/video.m3u8
-Penthouse HD,http://ca.ukrainske.tv/1497/3530225EDBD6B16/video.m3u8
-Penthouse Gold HD,http://ca.ukrainske.tv/6880/3530225EDBD6B16/video.m3u8
-Kinoshka Adult HD,http://ca.ukrainske.tv/9997/3530225EDBD6B16/video.m3u8
-BCU Charm HD,http://ca.ukrainske.tv/7141/3530225EDBD6B16/video.m3u8
-Clarity4K Angel XXX,http://ca.ukrainske.tv/4607/3530225EDBD6B16/video.m3u8
-YOSSO TV SEXY HD,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
-CineManExExEx HD,http://ca.ukrainske.tv/13020/3530225EDBD6B16/video.m3u8
-CineManExExEx TWO HD,http://ca.ukrainske.tv/13021/3530225EDBD6B16/video.m3u8
 
 花花公子 ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
 菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
