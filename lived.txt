@@ -1097,18 +1097,6 @@ HZTV-2,http://121.13.84.106:8000/udp/239.77.1.233:5146
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
-福建综合,http://110.81.206.138:50080/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
-福建公共,http://110.81.206.138:50080/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
-福建新闻,http://110.81.206.138:50080/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
-福建电视剧,http://110.81.206.138:50080/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
-福建旅游,http://110.81.206.138:50080/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
-福建经济生活,http://110.81.206.138:50080/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
-福建体育,http://110.81.206.138:50080/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
-福建少儿,http://110.81.206.138:50080/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
-福建教育,http://110.81.206.138:50080/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://110.81.206.138:50080/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-海峡卫视,http://110.81.206.138:50080/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
-
 福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv
 福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv
 福建电视剧,http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv
