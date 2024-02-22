@@ -46,6 +46,21 @@
     "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
     },
     {
+     "key": "精东影业",
+     "name": "精东【🔞】",
+     "type": 3,
+     "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+     "ext":"http://chujia.cc/api.php/provide/vod/from/m3u8/" 
+    }, 
+    {
+    "key": "91AV",
+    "name": "就要【🔞】",
+    "type": 3,
+    "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+    "ext":{"url": "http://madouse.cc/api.php/provide/vod/",
+    "categories": ["国产传媒","麻豆视频","果冻传媒","天美传媒","蜜桃影像传媒","精东影业","糖心Vlog","日本视频"]} 
+    }, 
+    {
     "key": "直播转点播",
     "name": "📛TH┃福利点播1",
     "type": 3,
