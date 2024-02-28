@@ -1281,16 +1281,24 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 常德综合,http://lede.medahl.com:10098/udp/239.76.248.10:1234
 常德公共,http://lede.medahl.com:10098/udp/239.76.248.11:1234
 衡阳综合,http://lede.medahl.com:10098/udp/239.76.248.13:1234
-衡阳综合,http://175.13.226.175:8888/udp/239.76.255.13:9000
+衡阳综合,http://lede.medahl.com:10098/udp/239.76.255.13:9000
 衡阳公共,http://lede.medahl.com:10098/udp/239.76.248.14:1234
-衡阳县电视台,http://175.13.226.175:8888/udp/239.76.255.26:9000
+衡阳县电视台,http://lede.medahl.com:10098/udp/239.76.255.26:9000
 娄底综合,http://lede.medahl.com:10098/udp/239.76.248.18:1234
 娄底公共,http://lede.medahl.com:10098/udp/239.76.248.19:1234
 张家界综合,http://lede.medahl.com:10098/udp/239.76.252.234:9000
 张家界2,http://lede.medahl.com:10098/udp/239.76.252.235:9000
 邵阳新闻,http://lede.medahl.com:10098/udp/239.76.248.23:1234
+邵阳公共,http://lede.medahl.com:10098/udp/239.76.255.22:9000
 永州新闻,http://lede.medahl.com:10098/udp/239.76.248.57:1234
 怀化综合,http://lede.medahl.com:10098/udp/239.76.255.12:9000
+道县综合,http://lede.medahl.com:10098/udp/239.76.255.28:9000
+长沙县台,http://lede.medahl.com:10098/udp/239.76.255.33:9000
+津市电视台,http://lede.medahl.com:10098/udp/239.76.255.30:9000
+新化电视台,http://lede.medahl.com:10098/udp/239.76.255.31:9000
+临澧综合,http://lede.medahl.com:10098/udp/239.76.255.32:9000
+1,http://lede.medahl.com:10098/udp/239.76.255.37:9000
+
 
 🇨🇳 湖北地方台,#genre#
 湖北经视,http://dd.ikhs.cn:8880/udp/239.69.1.41:9886
@@ -1310,6 +1318,7 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 蔡甸综合,http://dd.ikhs.cn:8880/udp/239.69.1.245:11112
 房县综合,http://dd.ikhs.cn:8880/udp/239.69.1.192:10794
 阳新综合,http://dd.ikhs.cn:8880/udp/239.69.1.34:9844
+
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 恩施新闻综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
