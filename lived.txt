@@ -462,9 +462,47 @@ CHC家庭影院,http://117.32.85.182:8008/udp/239.112.205.205:5140
 林正英2,http://mmitv.top/pltv/yy.php?id=1351505899
 
 🇨🇳 港 澳 台,#genre#
-凤凰卫视,http://110.72.69.105:808/hls/83/index.m3u8
-凤凰资讯,http://110.72.69.105:808/hls/1/index.m3u8
-凤凰香港台,http://110.72.69.105:808/hls/333/index.m3u8
+凤凰卫视,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
+无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+无线财经台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+TVB星河,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+viu TV,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+viu 6,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RTHK31,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RTHK32,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+澳门莲花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+年代新闻,http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+三立新闻,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+非凡新闻,http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+壹新闻,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+镜新闻,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
+台视,http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
+民视,http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+中视,http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+华视,http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+TVBS,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv 
+TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv 
+中视新闻,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv 
+台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv 
+寰宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv 
+LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv 
+动物星球,http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv 
+探索频道,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv 
+龙祥电影,http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv 
+东森电影,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv 
+东森戏剧,http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv 
+龙华电影,http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv 
+龙华洋片,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv 
+好莱坞电影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv 
+AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv 
+
 凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
 凤凰卫视,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰香港台,https://0472.org/hls/youzaiSB/fhhk.m3u8
@@ -479,19 +517,6 @@ J2,http://r.jdshipin.com/ndGgS$源2
 明珠台,http://r.jdshipin.com/ZQ4kN
 
 
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts$源2
-天映頻道,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
-天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
-功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8$源2
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8$源2
-凤凰卫视,http://222.217.246.54:8282/tsfile/live/1083_1.m3u8
-凤凰资讯,http://222.217.246.54:8282/tsfile/live/1082_1.m3u8
-凤凰香港台,http://222.217.246.54:8282/tsfile/live/1084_1.m3u8
-TVB星河,http://222.217.246.54:8282/tsfile/live/1073_1.m3u8
-龙祥时代,http://222.217.246.54:8282/tsfile/live/1081_1.m3u8
 
 
 🇨🇳 北京地方台,#genre#
@@ -789,23 +814,23 @@ HZTV-2,http://121.13.165.135:8000/udp/239.77.1.233:5146
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
-福建新闻,http://110.88.217.252:4022/udp/239.61.4.4:1025
-福建综合,http://110.88.217.252:4022/udp/239.61.5.167:1025
-福建公共,http://110.88.217.252:4022/udp/239.61.4.3:1025
-福建电视剧,http://110.88.217.252:4022/udp/239.61.4.5:1025
-福建文体,http://110.88.217.252:4022/udp/239.61.5.44:1025
-福建少儿,http://110.88.217.252:4022/udp/239.61.4.9:1025
-福建经济,http://110.88.217.252:4022/udp/239.61.4.7:1025
-福建旅游,http://110.88.217.252:4022/udp/239.61.4.6:1025
-海峡卫视,http://110.88.217.252:4022/udp/239.61.5.45:1025
-东南卫视,http://110.88.217.252:4022/udp/239.61.4.114:1025
-福建教育,http://110.88.217.252:4022/udp/239.61.5.60:1025
-厦门-1,http://110.88.217.252:4022/udp/239.61.5.99:1025
-厦门-1,http://110.88.217.252:4022/udp/239.61.4.139:1025
-厦门-2,http://110.88.217.252:4022/udp/239.61.4.140:1025
-南平综合,http://110.88.217.252:4022/udp/239.61.5.92:1025
-龙岩综合,http://110.88.217.252:4022/udp/239.61.5.95:1025
-宁德综合,http://110.88.217.252:4022/udp/239.61.5.96:1025
+福建新闻,http://117.28.112.111:8888/udp/239.61.4.4:1025
+福建综合,http://117.28.112.111:8888/udp/239.61.5.167:1025
+福建公共,http://117.28.112.111:8888/udp/239.61.4.3:1025
+福建电视剧,http://117.28.112.111:8888/udp/239.61.4.5:1025
+福建文体,http://117.28.112.111:8888/udp/239.61.5.44:1025
+福建少儿,http://117.28.112.111:8888/udp/239.61.4.9:1025
+福建经济,http://117.28.112.111:8888/udp/239.61.4.7:1025
+福建旅游,http://117.28.112.111:8888/udp/239.61.4.6:1025
+海峡卫视,http://117.28.112.111:8888/udp/239.61.5.45:1025
+东南卫视,http://117.28.112.111:8888/udp/239.61.4.114:1025
+福建教育,http://117.28.112.111:8888/udp/239.61.5.60:1025
+厦门-1,http://117.28.112.111:8888/udp/239.61.5.99:1025
+厦门-1,http://117.28.112.111:8888/udp/239.61.4.139:1025
+厦门-2,http://117.28.112.111:8888/udp/239.61.4.140:1025
+南平综合,http://117.28.112.111:8888/udp/239.61.5.92:1025
+龙岩综合,http://117.28.112.111:8888/udp/239.61.5.95:1025
+宁德综合,http://117.28.112.111:8888/udp/239.61.5.96:1025
 
 福建新闻,http://222.76.2.75:4022/udp/239.61.4.4:1025
 福建综合,http://222.76.2.75:4022/udp/239.61.5.167:1025
