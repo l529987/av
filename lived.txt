@@ -2902,7 +2902,27 @@ OCN Thrills,http://222.239.190.183:4022/udp/239.192.67.228:49220
 SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
 
 🌈 彩虹频道_6058,#genre#
-台湾成人台,p3p://108.181.20.159:75196/63fd589300099ff426db7203798a21f9
+1,http://cord-cutter.net:8080/YT6bvC/100111/159956
+2,http://cord-cutter.net:8080/YT6bvC/100111/159963
+3,http://cord-cutter.net:8080/YT6bvC/100111/159964
+4,http://cord-cutter.net:8080/YT6bvC/100111/159965
+5,http://cord-cutter.net:8080/YT6bvC/100111/159966
+6,http://cord-cutter.net:8080/YT6bvC/100111/159967
+7,http://cord-cutter.net:8080/YT6bvC/100111/159968
+8,http://cord-cutter.net:8080/YT6bvC/100111/159969
+9,http://cord-cutter.net:8080/YT6bvC/100111/159970
+10,http://cord-cutter.net:8080/YT6bvC/100111/159971
+11,http://cord-cutter.net:8080/YT6bvC/100111/159972
+12,http://cord-cutter.net:8080/YT6bvC/100111/159973
+13,http://cord-cutter.net:8080/YT6bvC/100111/159974
+14,http://cord-cutter.net:8080/YT6bvC/100111/159975
+15,http://cord-cutter.net:8080/YT6bvC/100111/159976
+16,http://cord-cutter.net:8080/YT6bvC/100111/159977
+17,http://cord-cutter.net:8080/YT6bvC/100111/159979
+18,http://cord-cutter.net:8080/YT6bvC/100111/159980
+19,http://cord-cutter.net:8080/YT6bvC/100111/159981
+20,http://cord-cutter.net:8080/YT6bvC/100111/159982
+
 花花公子 ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774045&extension=ts&play_token=VFnUEDgvPl
 菊花,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B8:25&stream=773971&extension=ts&play_token=VFnUEDgvPl
 EROXXX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:B3:73&stream=774016&extension=ts&play_token=VFnUEDgvPl
