@@ -588,6 +588,23 @@ CHC家庭影院,http://117.32.85.53:8008/udp/239.112.205.205:5140
 林正英2,http://mmitv.top/pltv/yy.php?id=1351505899
 
 🇨🇳 港 澳 台,#genre#
+凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
+凤凰卫视,https://0472.org/hls/youzaiSB/fhzw.m3u8
+凤凰香港台,https://0472.org/hls/youzaiSB/fhhk.m3u8
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
+无线新闻台,http://r.jdshipin.com/CkuBd
+无线财经台,https://i.125011.xyz/tvb.php?id=2&hq
+翡翠台,http://r.jdshipin.com/n90gt
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS$源2
+明珠台,http://r.jdshipin.com/ZQ4kN
+
 凤凰卫视,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
 无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
@@ -631,19 +648,6 @@ LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvf
 龙华洋片,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv 
 好莱坞电影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv 
 AXN,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv 
-
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰卫视,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰香港台,https://0472.org/hls/youzaiSB/fhhk.m3u8
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
-无线新闻台,http://r.jdshipin.com/CkuBd
-无线财经台,https://i.125011.xyz/tvb.php?id=2&hq
-翡翠台,http://r.jdshipin.com/n90gt
-J2,http://r.jdshipin.com/Nr5jq
-J2,http://r.jdshipin.com/ndGgS$源2
-明珠台,http://r.jdshipin.com/ZQ4kN
 
 🇨🇳 北京地方台,#genre#
 北京卫视,http://117.133.95.38:8887/udp/228.1.1.115:8000
