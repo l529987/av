@@ -965,6 +965,20 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 🇨🇳 福建地方台,#genre#
+福建综合,http://117.27.190.42:9901/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
+福建公共,http://117.27.190.42:9901/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
+福建新闻,http://117.27.190.42:9901/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
+福建电视剧,http://117.27.190.42:9901/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
+福建旅游,http://117.27.190.42:9901/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
+福建经济,http://117.27.190.42:9901/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0
+福建少儿,http://117.27.190.42:9901/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
+福建文体,http://117.27.190.42:9901/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0
+福建教育,http://117.27.190.42:9901/tsfile/live/23292_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门1,http://117.27.190.42:9901/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门2,http://117.27.190.42:9901/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://117.27.190.42:9901/tsfile/live/23281_1.m3u8?key=txiptv&playlive=1&authid=0
+海峡卫视,http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
+
 福建新闻,http://117.28.113.213:8888/udp/239.61.4.4:1025
 福建综合,http://117.28.113.213:8888/udp/239.61.5.167:1025
 福建公共,http://117.28.113.213:8888/udp/239.61.4.3:1025
