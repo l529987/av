@@ -1689,12 +1689,12 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 河南欢腾,http://iptv.flymeto.top:10001/udp/239.16.20.233:12330
 健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.52:10520
 健康河南,http://iptv.flymeto.top:10001/udp/239.16.20.239:12390
-郑州新闻综合,http://iptv.flymeto.top:10001/rtp/239.16.10.154:2000
-郑州商都频道,http://iptv.flymeto.top:10001/rtp/239.16.10.155:2000
+郑州新闻,http://iptv.flymeto.top:10001/rtp/239.16.10.154:2000
+郑州商都,http://iptv.flymeto.top:10001/rtp/239.16.10.155:2000
 郑州文体,http://iptv.flymeto.top:10001/rtp/239.16.10.156:2000
-郑州影视戏曲,http://iptv.flymeto.top:10001/rtp/239.16.10.157:2000
-郑州妇女儿童,http://iptv.flymeto.top:10001/rtp/239.16.10.158:2000
-郑州都市生活,http://iptv.flymeto.top:10001/rtp/239.16.10.159:2000
+郑州影视,http://iptv.flymeto.top:10001/rtp/239.16.10.157:2000
+郑州妇女,http://iptv.flymeto.top:10001/rtp/239.16.10.158:2000
+郑州都市,http://iptv.flymeto.top:10001/rtp/239.16.10.159:2000
 开封新闻综合,http://iptv.flymeto.top:10001/rtp/239.16.10.57:2000
 开封文化旅游,http://iptv.flymeto.top:10001/rtp/239.16.10.177:2000
 南阳新闻综合,http://iptv.flymeto.top:10001/rtp/239.16.10.58:2000
@@ -1734,7 +1734,7 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 叶县电视台,http://iptv.flymeto.top:10001/udp/239.16.20.32:10320
 三门峡综合,http://iptv.flymeto.top:10001/udp/239.16.20.145:11450
 百姓调解,http://iptv.flymeto.top:10001/udp/239.16.20.197:11970
-新密综合,http://iptv.flymeto.top:10001/rtp/239.16.20.41:10410
+新密新闻,http://iptv.flymeto.top:10001/rtp/239.16.20.41:10410
 新郑TV-1,http://iptv.flymeto.top:10001/rtp/239.16.20.45:10450
 淅川电视台,http://iptv.flymeto.top:10001/rtp/239.16.20.48:10480
 镇平新闻综合,http://iptv.flymeto.top:10001/rtp/239.16.20.50:10500
