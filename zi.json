@@ -265,6 +265,15 @@
       "filterable": 0
     },
     {
+      "key": "91麻豆",
+      "name": "91麻豆",
+      "type": 0,
+      "api": "https://91md.me/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "哥哥妹妹",
       "name": "哥哥妹妹",
       "type": 0,
