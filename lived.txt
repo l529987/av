@@ -530,16 +530,8 @@ CHC家庭影院,http://222.90.48.67:7777/udp/239.112.205.205:5140
 林正英2,http://mmitv.top/pltv/yy.php?id=1351505899
 
 🇨🇳 港 澳 台,#genre#
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视,http://tom028.top:55555/udp/239.93.0.162:2192$成都电信
-凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$成都电信
-凤凰卫视,http://qhdrive.mi4.xyz:8888/udp/239.76.246.135:1234$湖南电信
-凤凰资讯,http://qhdrive.mi4.xyz:8888/udp/239.76.246.134:1234$湖南电信
-凤凰资讯,http://v4.yuge518.cn:4022/udp/239.76.253.134:9000$湘潭电信
-凤凰卫视,http://v4.yuge518.cn:4022/udp/239.76.253.135:9000$湘潭电信
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-凤凰资讯,,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 无线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 无线财经台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
 天映频道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
@@ -585,6 +577,15 @@ AXN,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfyb
 CINEMAX,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 動物星球,http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
 探索頻道,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
+
+凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视,http://tom028.top:55555/udp/239.93.0.162:2192$成都电信
+凤凰资讯,http://tom028.top:55555/udp/239.93.0.118:2191$成都电信
+凤凰卫视,http://qhdrive.mi4.xyz:8888/udp/239.76.246.135:1234$湖南电信
+凤凰资讯,http://qhdrive.mi4.xyz:8888/udp/239.76.246.134:1234$湖南电信
+凤凰资讯,http://v4.yuge518.cn:4022/udp/239.76.253.134:9000$湘潭电信
+凤凰卫视,http://v4.yuge518.cn:4022/udp/239.76.253.135:9000$湘潭电信
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
