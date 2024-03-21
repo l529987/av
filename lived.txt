@@ -3139,7 +3139,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 潍坊坊子频道,https://wfrtv-live-tz.wfcmw.cn:81/live/55-xsq-wffangzi.m3u8
 潍坊妇联频道,https://wfrtv-live-tz.wfcmw.cn:81/live/26-zwpd-wfflpd.m3u8
 潍坊高密频道,https://wfrtv-live-tz.wfcmw.cn/live/13-xsq-wfgaomi.m3u8
-潍坊高新区频道,http://qrh.yimkj.cn/山东齐鲁.php?id=wfgxq#https://wfrtv-live-tz.wfcmw.cn:81/live/31-xsq-wfgaoxin.m3u8
+潍坊高新区频道,https://wfrtv-live-tz.wfcmw.cn:81/live/31-xsq-wfgaoxin.m3u8
 潍坊公安频道,https://wfrtv-live-tz.wfcmw.cn:81/live/20-zwpd-wfgapd.m3u8
 潍坊寒亭频道,https://wfrtv-live-tz.wfcmw.cn:81/live/47-xsq-wfhanting.m3u8
 潍坊花漾艺术,https://wfrtv-live-tz.wfcmw.cn:82/live/56-hypd-hyyspd.m3u8
@@ -3149,7 +3149,7 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 潍坊教育频道,https://wfrtv-live-tz.wfcmw.cn:82/live/22-hypd-wfjypd.m3u8
 潍坊金融频道,https://wfrtv-live-tz.wfcmw.cn:81/live/15-zpd-wfjrpd.m3u8
 潍坊经济开发区频道,https://wfrtv-live-tz.wfcmw.cn:81/live/43-xsq-wfjingkai.m3u8
-潍坊经济生活,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8#kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwftv2&pwd=jsdecode | https://wfrtv-live-tz.wfcmw.cn:82/live/37-zpd-jjshpd.m3u8
+潍坊经济生活,https://wfrtv-live-tz.wfcmw.cn:82/live/37-zpd-jjshpd.m3u8
 潍坊康养频道,https://wfrtv-live-tz.wfcmw.cn:82/live/35-hypd-wfkypd.m3u8
 潍坊奎文频道,https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8
 潍坊临朐频道,https://wfrtv-live-tz.wfcmw.cn:82/live/36-xsq-wflinqu.m3u8
