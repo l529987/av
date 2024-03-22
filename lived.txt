@@ -1811,20 +1811,11 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 恩施新闻综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
 
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
-武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-
 湖北公共新闻,http://api2.52tb.xyz/info?id=543&token=20230405tndmhg
 湖北综合,http://api2.52tb.xyz/info?id=542&token=20230405tndmhg
 湖北教育,http://api2.52tb.xyz/info?id=545&token=20230405tndmhg
 湖北生活,http://api2.52tb.xyz/info?id=544&token=20230405tndmhg
-湖北龚上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
+湖北垄上,http://api2.52tb.xyz/info?id=546&token=20230405tndmhg
 
 🇨🇳 河南地方台,#genre#
 河南都市,http://42.237.178.120:4000/udp/225.1.4.52:1081
