@@ -679,6 +679,9 @@ TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
 華視新聞,http://livetv.skycf.eu.org/live.m3u8?c=13
 
+中天新聞,https://s2.pub/cctv-17
+東森新聞,https://s2.pub/cctv-18
+
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://tom028.top:55555/udp/239.93.0.162:2192$成都电信
