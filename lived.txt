@@ -655,15 +655,17 @@ J2,http://111.173.81.3:3001/HK/22/hls.m3u8
 TVB星河,http://183.6.122.31:8091/HK/xh.live.flv
 翡翠台,http://183.6.122.31:8091/HK/tvb.live.flv
 J2,http://183.6.122.31:8091/HK/2.live.flv
-
 台视,http://183.6.122.31:8091/TW/ts.live.flv
+台視新聞,http://183.6.122.31:8091/TW/tsxw.live.flv
 華視,http://183.6.122.31:8091/TW/hs.live.flv
+華視新聞,http://183.6.122.31:8091/TW/hsxw.live.flv
 中視,http://183.6.122.31:8091/TW/zs.live.flv
-東森新聞,http://183.6.122.31:8091/TW/dsxw.live.flv
 中視新聞,http://183.6.122.31:8091/TW/zsxw.live.flv
+東森新聞,http://183.6.122.31:8091/TW/dsxw.live.flv
+東森洋片,http://183.6.122.31:8091/TW/dsyp.live.flv
 中天综合,http://183.6.122.31:8091/TW/ztzh.live.flv
 中天新聞,http://183.6.122.31:8091/TW/ztxw.live.flv
-東森洋片,http://183.6.122.31:8091/TW/dsyp.live.flv
+
 
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 公視,http://livetv.skycf.eu.org/live.m3u8?c=8
