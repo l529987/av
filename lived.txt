@@ -681,6 +681,7 @@ TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 
 中天新聞,https://s2.pub/cctv-17
 東森新聞,https://s2.pub/cctv-18
+功夫台,https://s2.pub/cctv-20
 
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
