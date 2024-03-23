@@ -647,14 +647,14 @@ HBO家庭,http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=55
 无线新闻台,http://111.173.81.3:3001/HK/wxxw/hls.m3u8
 无线财经台,http://111.173.81.3:3001/HK/j5/hls.m3u8
 翡翠台,http://111.173.81.3:3001/HK/tvb/hls.m3u8
-j2,http://111.173.81.3:3001/HK/22/hls.m3u8
+J2,http://111.173.81.3:3001/HK/22/hls.m3u8
 
 鳳凰香港台,http://183.6.122.31:8091/HK/fhxg.live.flv
 无线新闻台,http://183.6.122.31:8091/HK/wxxw.live.flv
 无线财经台,http://183.6.122.31:8091/HK/j5.live.flv
 TVB星河,http://183.6.122.31:8091/HK/xh.live.flv
 翡翠台,http://183.6.122.31:8091/HK/tvb.live.flv
-j2,http://183.6.122.31:8091/HK/2.live.flv
+J2,http://183.6.122.31:8091/HK/2.live.flv
 
 台视,http://183.6.122.31:8091/TW/ts.live.flv
 華視,http://183.6.122.31:8091/TW/hs.live.flv
