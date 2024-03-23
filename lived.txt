@@ -665,6 +665,20 @@ j2,http://183.6.122.31:8091/HK/2.live.flv
 中天新聞,http://183.6.122.31:8091/TW/ztxw.live.flv
 東森洋片,http://183.6.122.31:8091/TW/dsyp.live.flv
 
+凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
+公視,http://livetv.skycf.eu.org/live.m3u8?c=8
+台視新聞,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
+中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
+中天新聞,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+東森新聞,http://livetv.skycf.eu.org/live.m3u8?c=9
+東森财经新聞,http://livetv.skycf.eu.org/live.m3u8?c=14
+鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
+民視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
+華視新聞,http://livetv.skycf.eu.org/live.m3u8?c=13
+
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://tom028.top:55555/udp/239.93.0.162:2192$成都电信
