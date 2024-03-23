@@ -714,6 +714,7 @@ J2,http://r.jdshipin.com/ndGgS$源2
 石景山电视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 🇨🇳 浙江地方台,#genre#
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -722,6 +723,27 @@ J2,http://r.jdshipin.com/ndGgS$源2
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+浙江卫视,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.100:5140
+浙江公共新闻,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.137:5140
+浙江少儿,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.138:5140
+浙江教科影视,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.134:5140
+浙江民生休闲,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.136:5140
+浙江经济生活,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.133:5140
+浙江钱江频道,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.132:5140
+杭州导视,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.182:5140
+杭州1综合,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.173:5140
+杭州2明珠,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.174:5140
+杭州3生活,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.175:5140
+杭州4影视,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.176:5140
+杭州5青少,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.177:5140
+宁波TV1,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.168:5140
+宁波TV2,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.178:5140
+宁波TV3,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.179:5140
+宁波TV4,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.180:5140
+宁波TV5,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.181:5140
+温州新闻,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.87:5140
+绍兴新闻,http://lx.haoyuhuojia.com:4022/rtp/233.50.201.156:5140
 
 杭州导视,http://115.193.84.37:8686/rtp/233.50.201.182:5140
 杭州1综合,http://115.193.84.37:8686/rtp/233.50.201.173:5140
