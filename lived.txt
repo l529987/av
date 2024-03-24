@@ -688,6 +688,70 @@ HOY78,https://45.152.67.168/cctv-10
 東森新聞,https://45.152.67.168/cctv-18
 功夫台,https://45.152.67.168/cctv-20
 
+无线新闻台,http://45.89.104.154/mlTW2268.php?id=inews_twn
+无线财经台,http://45.89.104.154/mlTW2268.php?id=tvbcaijing_twn
+翡翠台,http://45.89.104.154/mlTW2268.php?id=Wlt
+翡翠台,http://45.89.104.154/mlTW2268.php?id=jade_twn
+明珠台,http://45.89.104.154/mlTW2268.php?id=pearl_twn
+J2,http://45.89.104.154/mlTW2268.php?id=j2_twn
+TVB星河,http://45.89.104.154/mlTW2268.php?id=Xinhe
+TVB星河,http://45.89.104.154/mlTW2268.php?id=tvbxinhe_twn
+天映频道,http://45.89.104.154/mlTW2268.php?id=Celestial
+VIUTV6,http://45.89.104.154/mlTW2268.php?id=viusix_twn
+viu TV,http://45.89.104.154/mlTW2268.php?id=viu1_twn
+中天综合,http://45.89.104.154/mlTW2268.php?id=ctizhonghe
+中天娱乐,http://45.89.104.154/mlTW2268.php?id=ctient
+中天新聞,http://45.89.104.154/mlTW2268.php?id=ctinews
+中視新聞,http://45.89.104.154/mlTW2268.php?id=ca73a13c37
+台視新聞,http://45.89.104.154/mlTW2268.php?id=ttvnews_twn
+龙祥电影,http://45.89.104.154/mlTW2268.php?id=lungxiangtime_twn
+龙祥电影,http://45.89.104.154/mlTW2268.php?id=cb7a1fec69
+好莱坞电影,http://45.89.104.154/mlTW2268.php?id=hollywoodmovies_twn
+美亚电影台,http://45.89.104.154/mlTW2268.php?id=meiyamovie_twn
+東森新聞,http://45.89.104.154/mlTW2268.php?id=ettvnews
+東森财经新聞,http://45.89.104.154/mlTW2268.php?id=ettvcaijing_twn
+東森戏剧,http://45.89.104.154/mlTW2268.php?id=ettvdrama
+東森电影台,http://45.89.104.154/mlTW2268.php?id=ettvmovie
+東森综合台,http://45.89.104.154/mlTW2268.php?id=ettvzhonghe
+東森洋片,http://45.89.104.154/mlTW2268.php?id=ettvwestern
+東森超视,http://45.89.104.154/mlTW2268.php?id=ettvsuper
+八大综合台,http://45.89.104.154/mlTW2268.php?id=badazhonghe
+八大戏剧台,http://45.89.104.154/mlTW2268.php?id=badadrama
+八大第1台,http://45.89.104.154/mlTW2268.php?id=badafirst
+民視新聞台,http://45.89.104.154/mlTW2268.php?id=ftvnew_taiwan
+民視台湾台,http://45.89.104.154/mlTW2268.php?id=ftvtaiwan_twn
+民視第一台,http://45.89.104.154/mlTW2268.php?id=lunghuajingdian_twn
+民視,http://45.89.104.154/mlTW2268.php?id=ftvhd_taiwan
+三立综合台,http://45.89.104.154/mlTW2268.php?id=sanlizhonghe
+三立台湾台,http://45.89.104.154/mlTW2268.php?id=sanlitaiwan
+緯來體育,http://45.89.104.154/mlTW2268.php?id=videolandsport
+緯來日本,http://45.89.104.154/mlTW2268.php?id=videolandjapan
+緯來电影,http://45.89.104.154/mlTW2268.php?id=videolandmovie
+龍華电影,http://45.89.104.154/mlTW2268.php?id=xingwei_movie
+龍華洋片,http://45.89.104.154/mlTW2268.php?id=lunghuawestern_twn
+龍華戏剧,http://45.89.104.154/mlTW2268.php?id=lunghuaxiju_twn
+龍華偶像,http://45.89.104.154/mlTW2268.php?id=lunghuaidol_twn
+TVBS HD,http://45.89.104.154/mlTW2268.php?id=tvbs
+TVBS新聞台,http://45.89.104.154/mlTW2268.php?id=tvbs_n
+TVBS欢乐台,http://45.89.104.154/mlTW2268.php?id=tvbshuanle_twn
+年代新聞,http://45.89.104.154/mlTW2268.php?id=niandainews_twn
+非凡新聞,http://45.89.104.154/mlTW2268.php?id=feifannews_twn
+寰宇新聞台,http://45.89.104.154/mlTW2268.php?id=huanyuxinwen_twn
+靖天卡通,http://45.89.104.154/mlTW2268.php?id=jingtiancartoon_twn
+靖天国际台,http://45.89.104.154/mlTW2268.php?id=jingtianintl_twn
+华艺moc,http://45.89.104.154/mlTW2268.php?id=weishichinese_twn
+华纳TV,http://45.89.104.154/mlTW2268.php?id=WarnerTV
+HBO HD,http://45.89.104.154/mlTW2268.php?id=hbohd_twn
+HBO家庭,http://45.89.104.154/mlTW2268.php?id=hbosignature_twn
+HBO famlly,http://45.89.104.154/mlTW2268.php?id=fyi_twn
+HBO HiTS,http://45.89.104.154/mlTW2268.php?id=hbohead_twn
+动物星球,http://45.89.104.154/mlTW2268.php?id=animalplanet_twn
+亚洲旅游台,http://45.89.104.154/mlTW2268.php?id=asiatravel_twn
+探索亚洲,http://45.89.104.154/mlTW2268.php?id=discoverytwn_twn
+探索频道,http://45.89.104.154/mlTW2268.php?id=ba86fcd935
+探索,http://45.89.104.154/mlTW2268.php?id=discoverych_twn
+美食星球,http://45.89.104.154/mlTW2268.php?id=foodplanet_twn
+
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视,http://tom028.top:55555/udp/239.93.0.162:2192$成都电信
@@ -4122,7 +4186,8 @@ OCN Thrills,http://222.239.190.183:4022/udp/239.192.67.228:49220
 SCREEN,http://222.239.190.183:4022/udp/239.192.67.229:49220
 
 🌈 彩虹频道_6058,#genre#
-
+VIP Japanese,http://iptvtree.net:8080/065966f3/85b17833bf/300912
+VIP Solo,http://iptvtree.net:8080/065966f3/85b17833bf/300913
 2-1,http://likea8bitboss.xyz/renedoza/7418520693/761160$源1
 2-2,http://likea8bitboss.xyz/renedoza/7418520693/761161$源1
 2-3,http://likea8bitboss.xyz/renedoza/7418520693/761162$源1
