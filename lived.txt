@@ -681,9 +681,12 @@ TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
 三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
 華視新聞,http://livetv.skycf.eu.org/live.m3u8?c=13
 
-中天新聞,https://s2.pub/cctv-17
-東森新聞,https://s2.pub/cctv-18
-功夫台,https://s2.pub/cctv-20
+HOY77,https://45.152.67.168/cctv-9
+HOY78,https://45.152.67.168/cctv-10
+无线财经台,https://45.152.67.168/cctv-11
+中天新聞,https://45.152.67.168/cctv-17
+東森新聞,https://45.152.67.168/cctv-18
+功夫台,https://45.152.67.168/cctv-20
 
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
