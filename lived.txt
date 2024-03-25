@@ -533,6 +533,25 @@ CHC家庭影院,http://222.90.48.67:7777/udp/239.112.205.205:5140
 凤凰卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+无线新闻台,http://bziyunshao.synology.me:8890/bysid/83
+无线新闻台,http://bziyunshao.synology.me:8890/bysid/85
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2,http://bziyunshao.synology.me:8890/bysid/82
+HOY76,http://bziyunshao.synology.me:8891/bysid/76
+HOY77,http://bziyunshao.synology.me:8891/bysid/77
+HOY78,http://bziyunshao.synology.me:8891/bysid/78
+VIUTV,http://bziyunshao.synology.me:8889/bysid/99
+VIUTV6,http://bziyunshao.synology.me:8889/bysid/96
+RTHK31,http://bziyunshao.synology.me:8892/bysid/31
+RTHK32,http://bziyunshao.synology.me:8892/bysid/32
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 凤凰卫视,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
