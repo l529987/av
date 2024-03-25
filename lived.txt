@@ -534,7 +534,7 @@ CHC家庭影院,http://222.90.48.67:7777/udp/239.112.205.205:5140
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 无线新闻台,http://bziyunshao.synology.me:8890/bysid/83
-无线新闻台,http://bziyunshao.synology.me:8890/bysid/85
+无线财经台,http://bziyunshao.synology.me:8890/bysid/85
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
 J2,http://bziyunshao.synology.me:8890/bysid/82
 HOY76,http://bziyunshao.synology.me:8891/bysid/76
