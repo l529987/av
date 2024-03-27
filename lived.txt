@@ -534,13 +534,15 @@ CHC家庭影院,http://222.90.48.67:7777/udp/239.112.205.205:5140
 凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
-鳳凰香港台,http://111.173.81.3:3001/HK/fhxg/hls.m3u8#
+凤凰香港,http://111.173.81.3:3001/HK/fhxg/hls.m3u8#
 无线新闻台,http://111.173.81.3:3001/HK/wxxw/hls.m3u8
 无线财经台,http://111.173.81.3:3001/HK/j5/hls.m3u8
 翡翠台,http://111.173.81.3:3001/HK/tvb/hls.m3u8
 J2,http://111.173.81.3:3001/HK/22/hls.m3u8
 
-鳳凰香港台,http://183.6.47.235:8091/HK/fhxg.live.flv
+中天新聞,http://209.141.42.207:10000/iptv.m3u8?data=aWQ9ZW5SNGR3JTNEJTNEJnRpbWU9NjYwM2U5M2MmdG9rZW49TXpJelptWmtPVGswT0dNeFlUYzNNMlk1WkRabE1HUm1OR1V3TnpWa01UVSUzRA==
+
+凤凰香港,http://183.6.47.235:8091/HK/fhxg.live.flv
 无线新闻台,http://183.6.47.235:8091/HK/wxxw.live.flv
 无线财经台,http://183.6.47.235:8091/HK/j5.live.flv
 TVB星河,http://183.6.47.235:8091/HK/xh.live.flv
