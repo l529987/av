@@ -2290,8 +2290,6 @@ IPTV,http://111.162.207.30:8686/rtp/225.1.2.53:5002
 德阳2,http://112.45.192.49:9999/udp/239.10.0.57:5140
 泸州科教,http://112.45.192.49:9999/udp/239.10.0.48:5140
 泸州新闻,http://112.45.192.49:9999/udp/239.10.0.46:5140
-乐山文旅,http://112.45.192.49:9999/udp/239.10.0.63:5140
-乐山新闻,http://112.45.192.49:9999/udp/239.10.0.62:5140
 南充综合,http://112.45.192.49:9999/rtp/239.10.0.68:5140
 南充公共,http://112.45.192.49:9999/rtp/239.10.0.69:5140
 南充科教,http://112.45.192.49:9999/rtp/239.10.0.70:5140
@@ -2302,8 +2300,8 @@ IPTV,http://111.162.207.30:8686/rtp/225.1.2.53:5002
 遂宁公共,http://112.45.192.49:9999/rtp/239.10.0.77:5140
 宜宾新闻,http://112.45.192.49:9999/rtp/239.10.0.80:5140
 宜宾公共,http://112.45.192.49:9999/rtp/239.10.0.81:5140
-攀枝花文旅,http://112.45.192.49:9999/udp/239.10.0.75:5140
-攀枝花新闻,http://112.45.192.49:9999/udp/239.10.0.74:5140
+攀枝花公共,http://112.45.192.49:9999/udp/239.10.0.75:5140
+攀枝花新闻综合,http://112.45.192.49:9999/udp/239.10.0.74:5140
 雅安公共,http://112.45.192.49:9999/udp/239.10.0.79:5140
 雅安新闻,http://112.45.192.49:9999/udp/239.10.0.78:5140
 资阳新闻,http://112.45.192.49:9999/rtp/239.10.0.82:5140
@@ -2519,6 +2517,8 @@ IPTV,http://111.162.207.30:8686/rtp/225.1.2.53:5002
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
 攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
+阿坝州综合,http://dcpull.sctvcloud.com/live/522fab2601881000cd142f2900000000/playlist.m3u8
+阿坝州文艺,http://dcpull.sctvcloud.com/live/52304cbd0188100059040d3700000000/playlist.m3u8
 甘孜综合,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 乐山公共,http://channellive.leshantv.net/live/ch2.flv?zsicd
@@ -3939,7 +3939,8 @@ YPH1,http://office.gofaraway.top:888/udp/238.125.7.193:5140
 YPH2,http://office.gofaraway.top:888/udp/238.125.7.194:5140
 十二师,http://office.gofaraway.top:888/udp/238.125.7.114:5140
 
-
+阿勒泰1,https://play-a2.quklive.com/live/1704380285590041.m3u8
+阿勒泰2,https://play-a2.quklive.com/live/1704380366011045.m3u8
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
