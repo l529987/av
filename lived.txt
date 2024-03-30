@@ -712,6 +712,7 @@ J2,http://r.jdshipin.com/ndGgS$源2
 温州新闻,http://125.125.199.56:8881/rtp/233.50.201.87:5140
 绍兴新闻,http://125.125.199.56:8881/rtp/233.50.201.156:5140
 
+瑞安新闻综合,https://play-a2.quklive.com/live/1681269183807252.m3u8
 龙港综合,https://play-qukan.cztv.com/live/1690766586436244.m3u8
 永康新闻综合,http://play-sh11.quklive.com/live/1625061424267104.m3u8
 永康华溪频道,http://play-sh11.quklive.com/live/1625062755227231.m3u8
