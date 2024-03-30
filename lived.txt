@@ -709,8 +709,8 @@ J2,http://r.jdshipin.com/ndGgS$源2
 宁波TV3,http://125.125.199.56:8881/rtp/233.50.201.179:5140
 宁波TV4,http://125.125.199.56:8881/rtp/233.50.201.180:5140
 宁波TV5,http://125.125.199.56:8881/rtp/233.50.201.181:5140
-温州新闻,http://125.125.199.56:8881/rtp/233.50.201.87:5140
 绍兴新闻,http://125.125.199.56:8881/rtp/233.50.201.156:5140
+温州新闻,http://125.125.199.56:8881/rtp/233.50.201.87:5140
 
 瑞安新闻综合,https://play-a2.quklive.com/live/1681269183807252.m3u8
 龙港综合,https://play-qukan.cztv.com/live/1690766586436244.m3u8
@@ -725,7 +725,9 @@ J2,http://r.jdshipin.com/ndGgS$源2
 嘉兴公共频道,http://play-a2.quklive.com/live/1675149601192103.m3u8
 萧山新闻综合,http://play-a2.quklive.com/live/1678438003663132.m3u8
 萧山生活,http://play-a2.quklive.com/live/1678438094969146.m3u8
-舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed#http://play-a2.quklive.com/live/1699002430299200.m3u8
+余姚新闻综合,http://play-a2.quklive.com/live/1696921090109311.m3u8
+余姚姚江文化,http://play-a2.quklive.com/live/1710811686937131.m3u8
+舟山公共生活,http://play-a2.quklive.com/live/1699002430299200.m3u8#http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山新闻综合,http://play-a2.quklive.com/live/1699001836208185.m3u8
 
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
