@@ -712,13 +712,15 @@ J2,http://r.jdshipin.com/ndGgS$源2
 绍兴新闻,http://125.125.199.56:8881/rtp/233.50.201.156:5140
 温州新闻,http://125.125.199.56:8881/rtp/233.50.201.87:5140
 
+洞头综合,http://play-sh.quklive.com/live/1688012459764188.m3u8
 瑞安新闻综合,https://play-a2.quklive.com/live/1681269183807252.m3u8
 龙港综合,https://play-qukan.cztv.com/live/1690766586436244.m3u8
 永康新闻综合,http://play-sh11.quklive.com/live/1625061424267104.m3u8
 永康华溪频道,http://play-sh11.quklive.com/live/1625062755227231.m3u8
 磐安新闻综合,http://play-sh11.quklive.com/live/1626400915947070.m3u8
 磐安文化生活,http://play-sh11.quklive.com/live/1626401163709056.m3u8
-洞头综合,http://play-sh.quklive.com/live/1688012459764188.m3u8
+湖州南浔综合,https://play-sh11.quklive.com/live/1692151289551258.m3u8
+
 东阳新闻综合,http://play-a2.quklive.com/live/1681113308206040.m3u8
 嘉兴新闻综合,http://play-a2.quklive.com/live/1675942165226154.m3u8
 嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
@@ -2717,6 +2719,7 @@ IPTV,http://111.162.207.30:8686/rtp/225.1.2.53:5002
 思南综合,http://www.akw323.com:9527/udp/238.255.2.218:5999
 铜仁综合,http://www.akw323.com:9527/udp/238.255.2.218:5999
 雷山综合,http://www.akw323.com:9527/udp/238.255.2.128:5999
+七星关电视台,https://p8.vzan.com/slowlive/147077707554082780/live.m3u8#https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
 🇨🇳 云南地方台,#genre#
 云南卫视,http://220.163.178.144:8888/tsfile/live/0019_1.m3u8?key=txiptv
@@ -3827,9 +3830,11 @@ YZTV,http://a.5iu.xyz:10000/udp/239.255.30.175:8231
 白银公综合,http://live.bygd.cn/byzh/sd/live.m3u8
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
+酒泉文旅,rtmp://play.kankanlive.com/live/1702036477193973#https://play.kankanlive.com/live/1702036477193973.m3u8
+酒泉综合,rtmp://play.kankanlive.com/live/1702033926169975#https://play.kankanlive.com/live/1702033926169975.m3u8
 天水新闻综合,rtmp://play.kankanlive.com/live/1698724188723989#https://play.kankanlive.com/live/1698724188723989.m3u8
-天水文旅频道,rtmp://play.kankanlive.com/live/1698739309525985#https://play.kankanlive.com/live/1698739309525985.m3u8
-
+天水文旅,rtmp://play.kankanlive.com/live/1698739309525985#https://play.kankanlive.com/live/1698739309525985.m3u8
+景泰综合,rtmp://play.kankanlive.com/live/1624439143745981#https://play.kankanlive.com/live/1624439143745981.m3u8
 🇨🇳 宁夏地方台,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv$源2
