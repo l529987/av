@@ -939,6 +939,13 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
 惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
 英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
+鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
+信宜综合,http://php.jdshipin.com:8880/chudian.php?id=xyzh
+广宁综合,http://php.jdshipin.com:8880/chudian.php?id=gnzh
+普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
+新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
+连平综合,http://php.jdshipin.com:8880/chudian.php?id=lpzh
+东源综合,http://php.jdshipin.com:8880/chudian.php?id=dytv
 
 江苏地方台,#genre#
 江苏城市,http://121.226.125.113:7777/rtp/239.49.9.35:6000
@@ -969,6 +976,17 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 
 福建地方台,#genre#
+福建综合,http://php.jdshipin.com:8880/bst.php?id=fjzh
+福建新闻,http://php.jdshipin.com:8880/bst.php?id=fjxw
+福建电视剧,http://php.jdshipin.com:8880/bst.php?id=fjdsj
+福建经济,http://php.jdshipin.com:8880/bst.php?id=fjjj
+福建文体,http://php.jdshipin.com:8880/bst.php?id=fjwt
+福建少儿,http://php.jdshipin.com:8880/bst.php?id=fjse
+福建旅游,http://php.jdshipin.com:8880/bst.php?id=fjly
+福建公共,http://php.jdshipin.com:8880/bst.php?id=fjgg
+福建教育,http://php.jdshipin.com:8880/bst.php?id=fjjy
+海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxws
+
 福建新闻,http://nas.8211321.com:5555/udp/239.61.4.4:1025
 福建综合,http://nas.8211321.com:5555/udp/239.61.5.167:1025
 福建公共,http://nas.8211321.com:5555/udp/239.61.4.3:1025
@@ -1090,16 +1108,6 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 宁德新闻,http://117.27.190.42:9901/tsfile/live/23296_1.m3u8?key=txiptv
 平潭综合,http://117.27.190.42:9901/tsfile/live/23299_1.m3u8?key=txiptv
 泉州,http://117.27.190.42:9901/tsfile/live/23300_1.m3u8?key=txiptv
-
-福建综合,http://nas.jdshipin.com:8801/bst.php?id=fjzh
-福建新闻,http://nas.jdshipin.com:8801/bst.php?id=fjxw
-福建电视剧,http://nas.jdshipin.com:8801/bst.php?id=fjdsj
-福建经济,http://nas.jdshipin.com:8801/bst.php?id=fjjj
-福建文体,http://nas.jdshipin.com:8801/bst.php?id=fjwt
-福建少儿,http://nas.jdshipin.com:8801/bst.php?id=fjse
-福建旅游,http://nas.jdshipin.com:8801/bst.php?id=fjly
-福建公共,http://nas.jdshipin.com:8801/bst.php?id=fjgg
-福建教育,http://nas.jdshipin.com:8801/bst.php?id=fjjy
 
 福建综合,http://36.249.151.173:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 福建新闻,http://36.249.151.173:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
