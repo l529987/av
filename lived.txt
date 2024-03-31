@@ -698,8 +698,11 @@ J2,http://r.jdshipin.com/ndGgS$源2
 永康华溪频道,http://play-sh11.quklive.com/live/1625062755227231.m3u8
 磐安新闻综合,http://play-sh11.quklive.com/live/1626400915947070.m3u8
 磐安文化生活,http://play-sh11.quklive.com/live/1626401163709056.m3u8
+天台和合,http://play-sh11.quklive.com/live/1617072208961931.m3u8
 湖州南浔综合,https://play-sh11.quklive.com/live/1692151289551258.m3u8
-
+江山电视台,http://play-sh.quklive.com/live/1623117710666335.m3u8
+松阳综合,http://play-sh.quklive.com/live/1681962980724316.m3u8
+建德综合,http://play-a2.quklive.com/live/1663900509755126.m3u8
 东阳新闻综合,http://play-a2.quklive.com/live/1681113308206040.m3u8
 嘉兴新闻综合,http://play-a2.quklive.com/live/1675942165226154.m3u8
 嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
@@ -710,6 +713,7 @@ J2,http://r.jdshipin.com/ndGgS$源2
 余姚姚江文化,http://play-a2.quklive.com/live/1710811686937131.m3u8
 舟山公共生活,http://play-a2.quklive.com/live/1699002430299200.m3u8#http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山新闻综合,http://play-a2.quklive.com/live/1699001836208185.m3u8
+
 
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
@@ -930,6 +934,11 @@ HZTV-1,http://nas.alight.fun:8888/udp/239.77.1.232:5146$深圳电信
 HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 香山文化,http://nas.alight.fun:8888/udp/239.253.43.63:5146$深圳电信
 徐闻综合,http://nas.alight.fun:8888/udp/239.253.43.112:5146$深圳电信
+
+怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
+化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
+惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
+英德新闻综合,http://php.jdshipin.com:8880/chudian.php?id=ydxw
 
 江苏地方台,#genre#
 江苏城市,http://121.226.125.113:7777/rtp/239.49.9.35:6000
@@ -1628,6 +1637,7 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 
+新田电视台,http://play-a2.quklive.com/live/1668150678653241.m3u8
 溆浦新闻,http://222.243.24.93:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 怀化新闻综合,http://222.243.24.93:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -1737,6 +1747,7 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 房县综合,http://home.kqysw.com:4000/udp/239.69.1.192:10794$荆门电信
 
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+石首综合,http://p8.vzan.com/slowlive/622923977748489779/live.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 恩施新闻综合,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
@@ -1883,6 +1894,11 @@ IPTV高清院线,http://lede.medahl.com:10098/udp/239.76.252.217:9000
 河南戏曲,http://zzssw01.55555.io:85/tsfile/live/1009_1.m3u8?key=txiptv
 河南中华功夫,http://zzssw01.55555.io:85/tsfile/live/1010_1.m3u8?key=txiptv
 河南百姓调解,http://zzssw01.55555.io:85/tsfile/live/1011_1.m3u8?key=txiptv
+
+周口川汇,http://125.44.139.18:8081/live/6520562530090312540.m3u8#http://117.159.72.12:8081/live/6520562530090312540.m3u8
+周口公共,http://125.44.139.18:8081/live/8606202505932165833.m3u8#http://117.159.72.12:8081/live/8606202505932165833.m3u8
+周口教育,http://125.44.139.18:8081/live/2548854934748691151.m3u8#http://117.159.72.12:8081/live/2548854934748691151.m3u8
+周口新闻综合,http://125.44.139.18:8081/live/2216261506805201716.m3u8#http://117.159.72.12:8081/live/2216261506805201716.m3u8
 
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
@@ -2459,7 +2475,8 @@ IPTV,http://111.162.207.30:8686/rtp/225.1.2.53:5002
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
 汉源新闻,http://live.hyxrmt.com:85/live/xwpd.m3u8
-
+雁江电视台,https://zbsczy.zyrb.com.cn/zygc/q_live169940504887269.m3u8
+资阳新闻综合,https://zbsczy.zyrb.com.cn/zygc/q_live169940503167305.m3u8
 遂宁综合,http://play.web.snxw.com/live/xwzh/playlist.m3u8
 遂宁公共,http://play.web.snxw.com/live/gggy/playlist.m3u8
 
@@ -3428,12 +3445,15 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 渭南新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 安康综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
 
+咸阳公共,http://hplayer1.juyun.tv/camera/129041160.m3u8
+
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+
 
 辽宁地方台,#genre#
 辽宁卫视,http://j4125.hanzy888.top:8899/udp/239.33.3.1:22570
@@ -3652,6 +3672,9 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 西宁新闻,http://220.167.170.149:4000/udp/239.120.1.249:9444
 西宁生活,http://220.167.170.149:4000/udp/239.120.1.248:9440
 
+果洛综合,http://111.44.214.34:8066/0.m3u8
+海东综合,https://tv.hdhhy.cn/live/hdtv.m3u8
+
 甘肃地方台,#genre#
 甘肃文化影视,http://www.pr666.site:4040/udp/239.255.30.250:8231
 甘肃少儿,http://www.pr666.site:4040/udp/239.255.30.254:8231
@@ -3675,11 +3698,6 @@ YZTV,http://www.pr666.site:4040/udp/239.255.30.175:8231
 陇上生活,http://a.5iu.xyz:10000/udp/239.255.30.73:8231
 YZTV,http://a.5iu.xyz:10000/udp/239.255.30.175:8231
 
-甘肃经济,http://api2.52tb.xyz/info?id=661&token=20230405tndmhg
-甘肃公共,http://api2.52tb.xyz/info?id=663&token=20230405tndmhg
-甘肃文化影视,http://api2.52tb.xyz/info?id=662&token=20230405tndmhg
-甘肃少儿,http://api2.52tb.xyz/info?id=664&token=20230405tndmhg
-甘肃都市,http://api2.52tb.xyz/info?id=665&token=20230405tndmhg
 白银公综合,http://live.bygd.cn/byzh/sd/live.m3u8
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
@@ -3688,6 +3706,8 @@ YZTV,http://a.5iu.xyz:10000/udp/239.255.30.175:8231
 天水新闻综合,rtmp://play.kankanlive.com/live/1698724188723989#https://play.kankanlive.com/live/1698724188723989.m3u8
 天水文旅,rtmp://play.kankanlive.com/live/1698739309525985#https://play.kankanlive.com/live/1698739309525985.m3u8
 景泰综合,rtmp://play.kankanlive.com/live/1624439143745981#https://play.kankanlive.com/live/1624439143745981.m3u8
+通渭综合,rtmp://play.kankanlive.com/live/1661761962676984#https://play.kankanlive.com/live/1661761962676984.m3u8
+西和综合频道,rtmp://play.kankanlive.com/live/1659926941626981#https://play.kankanlive.com/live/1659926941626981.m3u8
 
 宁夏地方台,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
@@ -3719,6 +3739,9 @@ YZTV,http://a.5iu.xyz:10000/udp/239.255.30.175:8231
 中卫综合,http://106.45.2.95:8888/udp/239.121.5.84:5520
 盐池,http://106.45.2.95:8888/rtp/239.121.5.10:5520
 永宁电视台,http://106.45.2.95:8888/rtp/239.121.5.65:5520
+
+石嘴山公共,https://pili-live-hls-jrszs.szsnews.com/jrszs/ggpd.m3u8
+石嘴山综合,https://pili-live-hls-jrszs.szsnews.com/jrszs/zhpd.m3u8
 
 山西地方台,#genre#
 山西卫视,http://113.24.136.82:8082/udp/239.1.1.1:8001
