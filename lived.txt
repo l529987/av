@@ -973,7 +973,7 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 宿豫综合,https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
-连云港综,https://live.lyg1.com/zhpd/sd/live.m3u8
+连云港综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 靖江新闻綜合,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 张家港新闻,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
