@@ -1173,6 +1173,17 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 江西移动,http://gzly.hkychina.com:6001/udp/239.252.220.241:5140
 江西IPTV,http://gzly.hkychina.com:6001/udp/239.252.219.188:5140
 
+江西卫视,http://gzly.softether.net:6005/udp/239.252.220.63:5140
+江西都市,http://gzly.softether.net:6005/udp/239.252.220.238:5140
+江西经济生活,http://gzly.softether.net:6005/udp/239.252.219.173:5140
+江西影视旅游,http://gzly.softether.net:6005/udp/239.252.220.242:5140
+江西公共农业,http://gzly.softether.net:6005/udp/239.252.220.102:5140
+江西少儿,http://gzly.softether.net:6005/udp/239.252.219.113:5140
+江西新闻,http://gzly.softether.net:6005/udp/239.252.220.100:5140
+江西教育,http://gzly.softether.net:6005/udp/239.252.219.115:5140
+江西移动,http://gzly.softether.net:6005/udp/239.252.220.241:5140
+江西IPTV,http://gzly.softether.net:6005/udp/239.252.219.188:5140
+
 江西卫视,http://111.73.21.129:8688/udp/239.252.220.63:5140
 江西都市,http://111.73.21.129:8688/udp/239.252.220.238:5140
 江西经济生活,http://111.73.21.129:8688/udp/239.252.219.173:5140
