@@ -981,17 +981,6 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 丹阳新闻综合,http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 
 福建地方台,#genre#
-福建综合,http://php.jdshipin.com:8880/bst.php?id=fjzh
-福建新闻,http://php.jdshipin.com:8880/bst.php?id=fjxw
-福建电视剧,http://php.jdshipin.com:8880/bst.php?id=fjdsj
-福建经济,http://php.jdshipin.com:8880/bst.php?id=fjjj
-福建文体,http://php.jdshipin.com:8880/bst.php?id=fjwt
-福建少儿,http://php.jdshipin.com:8880/bst.php?id=fjse
-福建旅游,http://php.jdshipin.com:8880/bst.php?id=fjly
-福建公共,http://php.jdshipin.com:8880/bst.php?id=fjgg
-福建教育,http://php.jdshipin.com:8880/bst.php?id=fjjy
-海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxws
-
 福建新闻,http://nas.8211321.com:5555/udp/239.61.4.4:1025
 福建综合,http://nas.8211321.com:5555/udp/239.61.5.167:1025
 福建公共,http://nas.8211321.com:5555/udp/239.61.4.3:1025
