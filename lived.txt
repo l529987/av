@@ -604,6 +604,7 @@ J2,http://r.jdshipin.com/ndGgS$源2
 房山电视台,http://cm.chardy.cn:8887/udp/228.1.1.139:8001$北京移动
 朝阳融媒,http://cm.chardy.cn:8887/udp/228.1.1.140:8001$北京移动
 
+北京卫视,http://mtjkwdrive.zzmd.fun:8888/udp/239.3.1.241:8000$北京联通
 北京新闻,http://mtjkwdrive.zzmd.fun:8888/udp/239.3.1.159:8000$北京联通
 北京影视,http://mtjkwdrive.zzmd.fun:8888/udp/239.3.1.158:8000$北京联通
 北京文艺,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.242:8000$北京联通
