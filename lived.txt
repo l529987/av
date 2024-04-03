@@ -1416,10 +1416,10 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 
 湖南地方台,#genre#
-湖南卫视,http://dms.yryyj.site:8188/udp/239.76.245.115:1234$长沙电信
-湖南经视,http://dms.yryyj.site:8188/udp/239.76.245.116:1234$长沙电信
-湖南都市,http://dms.yryyj.site:8188/udp/239.76.245.117:1234$长沙电信
-湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.245.118:1234$长沙电信
+湖南卫视,http://dms.yryyj.site:8188/udp/239.76.245.101:1234$长沙电信
+湖南经视,http://dms.yryyj.site:8188/udp/239.76.245.103:1234$长沙电信
+湖南都市,http://dms.yryyj.site:8188/udp/239.76.245.104:1234$长沙电信
+湖南电视剧,http://dms.yryyj.site:8188/udp/239.76.245.108:1234$长沙电信
 金鹰卡通,http://dms.yryyj.site:8188/udp/239.76.245.120:1234$长沙电信
 湖南电影,http://dms.yryyj.site:8188/udp/239.76.245.119:1234$长沙电信
 金鹰纪实,http://dms.yryyj.site:8188/udp/239.76.245.122:1234$长沙电信
