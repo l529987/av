@@ -1214,6 +1214,7 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 江西教育,http://gzly.hkychina.com:6001/udp/239.252.219.115:5140
 江西移动,http://gzly.hkychina.com:6001/udp/239.252.220.241:5140
 江西IPTV,http://gzly.hkychina.com:6001/udp/239.252.219.188:5140
+陶瓷,http://http://gzly.hkychina.com:6001/udp/239.252.220.243:5140
 
 江西卫视,http://gzly.softether.net:6005/udp/239.252.220.63:5140
 江西都市,http://gzly.softether.net:6005/udp/239.252.220.238:5140
@@ -1225,6 +1226,7 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 江西教育,http://gzly.softether.net:6005/udp/239.252.219.115:5140
 江西移动,http://gzly.softether.net:6005/udp/239.252.220.241:5140
 江西IPTV,http://gzly.softether.net:6005/udp/239.252.219.188:5140
+陶瓷,http://gzly.softether.net:6005/udp/239.252.220.243:5140
 
 江西卫视,http://111.73.21.129:8688/udp/239.252.220.63:5140
 江西都市,http://111.73.21.129:8688/udp/239.252.220.238:5140
@@ -1236,6 +1238,7 @@ HZTV-2,http://nas.alight.fun:8888/udp/239.77.1.233:5146$深圳电信
 江西教育,http://111.73.21.129:8688/udp/239.252.219.115:5140
 江西移动,http://111.73.21.129:8688/udp/239.252.220.241:5140
 江西IPTV,http://111.73.21.129:8688/udp/239.252.219.188:5140
+陶瓷,http://111.73.21.129:8688/udp/239.252.220.243:5140
 
 赣州新闻综合,http://115.150.63.77:85/tsfile/live/0001_50.m3u8?key=txiptv&playlive=1&authid=0
 赣州公共,http://115.150.63.77:85/tsfile/live/0001_51.m3u8?key=txiptv&playlive=1&authid=0
