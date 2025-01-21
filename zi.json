@@ -3,34 +3,7 @@
 //数据接口
 
 "sites": [
-	{
-            "key": "成人",
-            "name": "成人",
-            "type": 1,
-            "api": "http://jkunzyapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "黑丝诱惑",
-                "SWAG",
-                "中文字幕",
-                "日本有码",
-                "日本无码",
-                "AV解说",
-                "cosplay",
-                "激情动漫",
-                "自拍偷拍",
-                "网红主播",
-                "探花系列",
-                "三级伦理",
-                "VR视角",
-                "国产传媒",
-                "素人搭讪",
-                "门事件",
-            ]
-	     },	
+	
  {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "黄瓜资源","name":"黄瓜资源","type": 1,"api":"https://www.zy018.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
