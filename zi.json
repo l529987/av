@@ -5,7 +5,7 @@
 "sites": [
 {"key":"*成人资源","name":"🈲成人资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},	
  {"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzy.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key": "黄瓜资源","name":"黄瓜资源","type": 1,"api":"https://www.zy018.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "辣椒资源","name":"辣椒资源","type": 1,"api":"http://api.11bat.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
